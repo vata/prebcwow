@@ -1,0 +1,55 @@
+10
+
+dir
+10
+https://subversion.assembla.com/svn/prebcwow/Precompiled%20Libs/include
+https://subversion.assembla.com/svn/prebcwow
+
+
+
+2009-04-24T03:25:18.093292Z
+9
+Kelwing
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+080cfd25-d5d9-4c59-82ea-70d02a200d8b
+
+zlib
+dir
+
+Python
+dir
+
+zthread
+dir
+
+CXX
+dir
+
+openssl
+dir
+
+sqlite3
+dir
+
+mysql
+dir
+
+Sockets
+dir
+
+dotconfpp
+dir
+

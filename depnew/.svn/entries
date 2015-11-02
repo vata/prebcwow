@@ -1,0 +1,80 @@
+10
+
+dir
+10
+https://subversion.assembla.com/svn/prebcwow/depnew
+https://subversion.assembla.com/svn/prebcwow
+
+
+
+2009-04-05T03:05:40.665608Z
+2
+coolmanbobtest
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+080cfd25-d5d9-4c59-82ea-70d02a200d8b
+
+make_Win32
+dir
+
+Win32_Release
+dir
+
+Win32_include
+dir
+
+doc
+dir
+
+Win32_Debug
+dir
+
+Unix_dep
+dir
+
+readme.txt
+file
+
+
+
+
+2015-11-02T11:40:20.000000Z
+b0885b95934c895a6078f1e226faf7d8
+2009-04-05T03:05:40.665608Z
+2
+coolmanbobtest
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+627
+

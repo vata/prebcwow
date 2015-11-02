@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/prebcwow/!svn/ver/2/depnew/make_Win32
+END
+move_sqlite3.bat
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/prebcwow/!svn/ver/2/depnew/make_Win32/move_sqlite3.bat
+END
+openssl.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/prebcwow/!svn/ver/2/depnew/make_Win32/openssl.vcproj
+END
+move_dotconfpp.bat
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/prebcwow/!svn/ver/2/depnew/make_Win32/move_dotconfpp.bat
+END
+make_Win32.sln
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/prebcwow/!svn/ver/2/depnew/make_Win32/make_Win32.sln
+END
+move_zlib.bat
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/prebcwow/!svn/ver/2/depnew/make_Win32/move_zlib.bat
+END
+move_zthread.bat
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/prebcwow/!svn/ver/2/depnew/make_Win32/move_zthread.bat
+END
+dotconfpp.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/prebcwow/!svn/ver/2/depnew/make_Win32/dotconfpp.vcproj
+END
+move_mysql.bat
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/prebcwow/!svn/ver/2/depnew/make_Win32/move_mysql.bat
+END
+ZThread.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/prebcwow/!svn/ver/2/depnew/make_Win32/ZThread.vcproj
+END
+sqlite.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/prebcwow/!svn/ver/2/depnew/make_Win32/sqlite.vcproj
+END
+move_pycxx.bat
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/prebcwow/!svn/ver/2/depnew/make_Win32/move_pycxx.bat
+END
+move_sockets.bat
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/prebcwow/!svn/ver/2/depnew/make_Win32/move_sockets.bat
+END
+MySql.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/prebcwow/!svn/ver/2/depnew/make_Win32/MySql.vcproj
+END
+move_python.bat
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/prebcwow/!svn/ver/2/depnew/make_Win32/move_python.bat
+END
+PyCXX.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/prebcwow/!svn/ver/2/depnew/make_Win32/PyCXX.vcproj
+END
+move_openssl.bat
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/prebcwow/!svn/ver/2/depnew/make_Win32/move_openssl.bat
+END

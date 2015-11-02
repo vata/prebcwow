@@ -1,0 +1,587 @@
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/svn/prebcwow/!svn/ver/9/src/Game
+END
+Item.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/prebcwow/!svn/ver/2/src/Game/Item.cpp
+END
+StdAfx.h
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/prebcwow/!svn/ver/2/src/Game/StdAfx.h
+END
+GameObject.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/prebcwow/!svn/ver/5/src/Game/GameObject.cpp
+END
+WorldSession.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/prebcwow/!svn/ver/2/src/Game/WorldSession.h
+END
+Quest.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/prebcwow/!svn/ver/2/src/Game/Quest.cpp
+END
+TaxiHandler.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/prebcwow/!svn/ver/3/src/Game/TaxiHandler.cpp
+END
+QuestScriptBackend.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/prebcwow/!svn/ver/2/src/Game/QuestScriptBackend.h
+END
+Terrain.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/prebcwow/!svn/ver/2/src/Game/Terrain.cpp
+END
+Guild.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/prebcwow/!svn/ver/2/src/Game/Guild.cpp
+END
+Tools.h
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/prebcwow/!svn/ver/2/src/Game/Tools.h
+END
+Object.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/prebcwow/!svn/ver/3/src/Game/Object.cpp
+END
+Unit.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/prebcwow/!svn/ver/9/src/Game/Unit.cpp
+END
+SpellEffects.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/prebcwow/!svn/ver/3/src/Game/SpellEffects.cpp
+END
+Creature.h
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/prebcwow/!svn/ver/9/src/Game/Creature.h
+END
+ObjectMgr.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/prebcwow/!svn/ver/9/src/Game/ObjectMgr.h
+END
+UpdateData.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/prebcwow/!svn/ver/2/src/Game/UpdateData.h
+END
+ChannelMgr.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/prebcwow/!svn/ver/2/src/Game/ChannelMgr.h
+END
+WaypointAdmin.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/prebcwow/!svn/ver/2/src/Game/WaypointAdmin.cpp
+END
+Spell.h
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/prebcwow/!svn/ver/2/src/Game/Spell.h
+END
+Chat.h
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/prebcwow/!svn/ver/2/src/Game/Chat.h
+END
+DuelHandler.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/prebcwow/!svn/ver/2/src/Game/DuelHandler.cpp
+END
+QuestPacketHandler.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/prebcwow/!svn/ver/2/src/Game/QuestPacketHandler.cpp
+END
+Level0.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/prebcwow/!svn/ver/2/src/Game/Level0.cpp
+END
+World.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/prebcwow/!svn/ver/2/src/Game/World.cpp
+END
+MovementHandler.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/prebcwow/!svn/ver/3/src/Game/MovementHandler.cpp
+END
+Level1.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/prebcwow/!svn/ver/2/src/Game/Level1.cpp
+END
+MapGrid.h
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/prebcwow/!svn/ver/2/src/Game/MapGrid.h
+END
+ItemPrototype.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/prebcwow/!svn/ver/2/src/Game/ItemPrototype.h
+END
+Level2.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/prebcwow/!svn/ver/2/src/Game/Level2.cpp
+END
+StdAfx.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/prebcwow/!svn/ver/2/src/Game/StdAfx.cpp
+END
+CharacterHandler.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/prebcwow/!svn/ver/5/src/Game/CharacterHandler.cpp
+END
+Level3.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/prebcwow/!svn/ver/2/src/Game/Level3.cpp
+END
+WorldSession.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/prebcwow/!svn/ver/2/src/Game/WorldSession.cpp
+END
+Group.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/prebcwow/!svn/ver/2/src/Game/Group.cpp
+END
+Instances.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/prebcwow/!svn/ver/2/src/Game/Instances.h
+END
+ItemHandler.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/prebcwow/!svn/ver/2/src/Game/ItemHandler.cpp
+END
+Player.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/prebcwow/!svn/ver/3/src/Game/Player.cpp
+END
+QueryHandler.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/prebcwow/!svn/ver/5/src/Game/QueryHandler.cpp
+END
+Item.h
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/prebcwow/!svn/ver/2/src/Game/Item.h
+END
+GameObject.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/prebcwow/!svn/ver/9/src/Game/GameObject.h
+END
+ChannelHandler.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/prebcwow/!svn/ver/2/src/Game/ChannelHandler.cpp
+END
+Guild.h
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/prebcwow/!svn/ver/2/src/Game/Guild.h
+END
+Object.h
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/prebcwow/!svn/ver/3/src/Game/Object.h
+END
+SpellHandler.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/prebcwow/!svn/ver/2/src/Game/SpellHandler.cpp
+END
+ChatHandler.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/prebcwow/!svn/ver/2/src/Game/ChatHandler.cpp
+END
+NPCHandler.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/prebcwow/!svn/ver/2/src/Game/NPCHandler.cpp
+END
+Spell.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/prebcwow/!svn/ver/2/src/Game/Spell.cpp
+END
+Chat.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/prebcwow/!svn/ver/2/src/Game/Chat.cpp
+END
+includes.vsd
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/prebcwow/!svn/ver/2/src/Game/includes.vsd
+END
+Container.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/prebcwow/!svn/ver/2/src/Game/Container.cpp
+END
+MapCell.h
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/prebcwow/!svn/ver/2/src/Game/MapCell.h
+END
+Mail.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/prebcwow/!svn/ver/2/src/Game/Mail.cpp
+END
+Instances.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/prebcwow/!svn/ver/2/src/Game/Instances.cpp
+END
+Opcodes.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/prebcwow/!svn/ver/2/src/Game/Opcodes.cpp
+END
+QuestHandler.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/prebcwow/!svn/ver/2/src/Game/QuestHandler.cpp
+END
+Corpse.h
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/prebcwow/!svn/ver/2/src/Game/Corpse.h
+END
+DevCommands.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/prebcwow/!svn/ver/2/src/Game/DevCommands.cpp
+END
+Player.h
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/prebcwow/!svn/ver/9/src/Game/Player.h
+END
+Group.h
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/prebcwow/!svn/ver/2/src/Game/Group.h
+END
+Channel.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/prebcwow/!svn/ver/2/src/Game/Channel.cpp
+END
+UpdateFields.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/prebcwow/!svn/ver/3/src/Game/UpdateFields.h
+END
+DynamicObject.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/prebcwow/!svn/ver/2/src/Game/DynamicObject.h
+END
+NPCHandler.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/prebcwow/!svn/ver/2/src/Game/NPCHandler.h
+END
+SConstruct
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/prebcwow/!svn/ver/2/src/Game/SConstruct
+END
+Mail.h
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/prebcwow/!svn/ver/2/src/Game/Mail.h
+END
+Container.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/prebcwow/!svn/ver/2/src/Game/Container.h
+END
+MapMgr.h
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/prebcwow/!svn/ver/9/src/Game/MapMgr.h
+END
+Corpse.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/prebcwow/!svn/ver/2/src/Game/Corpse.cpp
+END
+TradeHandler.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/prebcwow/!svn/ver/2/src/Game/TradeHandler.cpp
+END
+Affect.h
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/prebcwow/!svn/ver/2/src/Game/Affect.h
+END
+QuestScriptBackend.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/prebcwow/!svn/ver/2/src/Game/QuestScriptBackend.cpp
+END
+MiscHandler.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/prebcwow/!svn/ver/2/src/Game/MiscHandler.h
+END
+PathFinding.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/prebcwow/!svn/ver/2/src/Game/PathFinding.h
+END
+Tools.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/prebcwow/!svn/ver/2/src/Game/Tools.cpp
+END
+Opcodes.h
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/prebcwow/!svn/ver/2/src/Game/Opcodes.h
+END
+Path.h
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/prebcwow/!svn/ver/2/src/Game/Path.h
+END
+GuildHandler.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/prebcwow/!svn/ver/2/src/Game/GuildHandler.cpp
+END
+Stats.h
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/prebcwow/!svn/ver/2/src/Game/Stats.h
+END
+CombatHandler.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/prebcwow/!svn/ver/2/src/Game/CombatHandler.cpp
+END
+UpdateMask.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/prebcwow/!svn/ver/2/src/Game/UpdateMask.h
+END
+Quest.h
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/prebcwow/!svn/ver/2/src/Game/Quest.h
+END
+AuctionHouse.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/prebcwow/!svn/ver/2/src/Game/AuctionHouse.cpp
+END
+Creature.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/prebcwow/!svn/ver/3/src/Game/Creature.cpp
+END
+DynamicObject.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/prebcwow/!svn/ver/2/src/Game/DynamicObject.cpp
+END
+Skill_Auto.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/prebcwow/!svn/ver/2/src/Game/Skill_Auto.h
+END
+UpdateData.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/prebcwow/!svn/ver/3/src/Game/UpdateData.cpp
+END
+ObjectMgr.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/prebcwow/!svn/ver/2/src/Game/ObjectMgr.cpp
+END
+SkillHandler.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/prebcwow/!svn/ver/2/src/Game/SkillHandler.cpp
+END
+Channel.h
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/prebcwow/!svn/ver/2/src/Game/Channel.h
+END
+NameTables.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/prebcwow/!svn/ver/2/src/Game/NameTables.h
+END
+MapMgr.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/prebcwow/!svn/ver/9/src/Game/MapMgr.cpp
+END
+Shared_AI.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/prebcwow/!svn/ver/2/src/Game/Shared_AI.h
+END
+Unit.h
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/prebcwow/!svn/ver/9/src/Game/Unit.h
+END
+MiscHandler.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/prebcwow/!svn/ver/2/src/Game/MiscHandler.cpp
+END
+GroupHandler.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/prebcwow/!svn/ver/2/src/Game/GroupHandler.cpp
+END
+World.h
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/prebcwow/!svn/ver/9/src/Game/World.h
+END
+QuestPacketHandler.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/prebcwow/!svn/ver/2/src/Game/QuestPacketHandler.h
+END

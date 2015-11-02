@@ -1,0 +1,19 @@
+# !!! USE MAIN SCONSTRUCT-FILE FOR COMPILING !!!
+#
+# --> SConstruct for pycxx
+#
+# If you want to compile only this library comment other
+# SConstruct invocations in main SConstruct out
+#
+
+StaticLibrary('./pycxx', [
+		'IndirectPythonInterface.cxx',
+		'cxx_extensions.cxx',
+		'cxxextensions.c',
+		'cxxsupport.cxx'
+	],
+	CPPPATH = [
+		'/usr/include/python2.4'
+	],
+	CCFLAGS='-fpermissive'
+)

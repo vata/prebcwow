@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/prebcwow/!svn/ver/2/depnew/make_Win32/pycxx_5_3_5/Demo
+END
+pycxx_iter.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/prebcwow/!svn/ver/2/depnew/make_Win32/pycxx_5_3_5/Demo/pycxx_iter.cxx
+END
+test_example.py
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/prebcwow/!svn/ver/2/depnew/make_Win32/pycxx_5_3_5/Demo/test_example.py
+END
+python.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/prebcwow/!svn/ver/2/depnew/make_Win32/pycxx_5_3_5/Demo/python.cxx
+END
+range.hxx
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/prebcwow/!svn/ver/2/depnew/make_Win32/pycxx_5_3_5/Demo/range.hxx
+END
+pycxx_iter.hxx
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/prebcwow/!svn/ver/2/depnew/make_Win32/pycxx_5_3_5/Demo/pycxx_iter.hxx
+END
+test_pycxx_iter.py
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/prebcwow/!svn/ver/2/depnew/make_Win32/pycxx_5_3_5/Demo/test_pycxx_iter.py
+END
+setup.py
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/prebcwow/!svn/ver/2/depnew/make_Win32/pycxx_5_3_5/Demo/setup.py
+END
+example.def
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/prebcwow/!svn/ver/2/depnew/make_Win32/pycxx_5_3_5/Demo/example.def
+END
+example.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/prebcwow/!svn/ver/2/depnew/make_Win32/pycxx_5_3_5/Demo/example.cxx
+END
+range.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/prebcwow/!svn/ver/2/depnew/make_Win32/pycxx_5_3_5/Demo/range.cxx
+END
+rangetest.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/prebcwow/!svn/ver/2/depnew/make_Win32/pycxx_5_3_5/Demo/rangetest.cxx
+END

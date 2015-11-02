@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/prebcwow/!svn/ver/2/depnew/make_Win32/openssl-0.9.8a/crypto/sha/asm
+END
+s1_win32.asm
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/prebcwow/!svn/ver/2/depnew/make_Win32/openssl-0.9.8a/crypto/sha/asm/s1_win32.asm
+END
+sha1-586.pl
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/prebcwow/!svn/ver/2/depnew/make_Win32/openssl-0.9.8a/crypto/sha/asm/sha1-586.pl
+END
+sha1-ia64.pl
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/prebcwow/!svn/ver/2/depnew/make_Win32/openssl-0.9.8a/crypto/sha/asm/sha1-ia64.pl
+END
+sha512-sse2.pl
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/prebcwow/!svn/ver/2/depnew/make_Win32/openssl-0.9.8a/crypto/sha/asm/sha512-sse2.pl
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/prebcwow/!svn/ver/2/depnew/make_Win32/openssl-0.9.8a/crypto/sha/asm/README
+END
+s1_win32.obj
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/prebcwow/!svn/ver/2/depnew/make_Win32/openssl-0.9.8a/crypto/sha/asm/s1_win32.obj
+END
+sha512-ia64.pl
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/prebcwow/!svn/ver/2/depnew/make_Win32/openssl-0.9.8a/crypto/sha/asm/sha512-ia64.pl
+END

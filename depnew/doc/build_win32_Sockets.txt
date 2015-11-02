@@ -1,0 +1,11 @@
+Sockets-1.9.8.zip
+
+1. /Project.net/Sockets/Sockets.sln
+1. Change to Release
+2. set inc dir for openssl
+3. set lib dir for openssl
+4. set optimizations
+5. Set lib MT - build release ver
+
+out:
+/include/ dir was created by post build script

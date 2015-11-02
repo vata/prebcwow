@@ -1,0 +1,88 @@
+To-Do for Python scripts
+------------------------
+
+Notes:
+Put here any to-do you think shall be done for Python scripts.
+When the task is completed, put COMPLETED after to-do item.
+All directories mentioned put in CAPS.
+
+The outlook of to-do:
+- Number
+- Subject (SUBJ)
+- What to-do (TO-DO)
+- Who will make it, nick (WHO)
+- Status (STATUS), 
+  can be: IN PROGRESS, TAKE OVER (when you won't do it), HELP (when you need help), 
+          COMPLETED
+- Any Comments (COMMENT)
+
+------------------------
+
+1. 
+SUBJ:    XP formula in ../PLAYER/xp.py
+TO-DO:   Enhance some codes.
+WHO:     Cain
+STATUS:  IN PROGRESS (Need more ppl to test it)
+COMMENT: From Kosuha,
+         Corrected: added: from const_ai import *   - for constants to be loading into module
+        
+         Cain, XP module is working, but it gives too low XP for such case:
+         CalcXP:: | MOBID: 299 | NAME: Young Wolf | MOBLVL: 1 | PLAYLVL: 1 | XP: 0 |
+         When you start new char Human, on official WoW, with 1 LVL Char you get exactly 50 XP for killing young wolf.
+        
+         You can test XP module by your self also:
+         - change setting in MySQL module according your MySQL server
+         - go to startup_ai.py and uncomment "from Ludmilla import *"
+         - start startup_ai.py under Pythons IDLE
+         - it will give error, but XP module will be loaded
+         - in IDLE type CalcXP() and that is it, you get result 
+         - by changing data in XP.PY you can emulate situation, ENTRY/PLAYERLEVL...
+
+         From Cain,
+         Need to play along with the constants to make it more like blizz.
+         This is the black box for me coz' I'm not an official player...
+         
+         From Kosuha:
+         Added Random XP gain or loss in 5% range of gained XP (check xp.py, closer to the end)
+
+         From Cain:
+         Fixed some calculation problem in python which lead to the division result become integer type.
+         Moving XP to upper statements before the last checks for maximum XP.
+
+
+2. 
+SUBJ:    MySQL query in ../PLAYER/mysql.py
+TO-DO:   New <creature_props> function to retrieve specified properties from the given entry id.
+WHO:     Cain
+STATUS:  HELP (Need someone to test it)
+COMMENT: From Kosuha,
+         Don't you think for..loop could slow down server ? should not we avoid it ? The idea is nice, but I 
+         am confused with Loop.
+         I tried to make Creatures() as easy as possible for server to process to save on performance. Anyway we
+         need working server to test it, whether performance drops or not.
+
+         From Cain,
+         I had replaced it with better codes. Pls. check it.
+
+
+3.
+SUBJ:    XP formula in ../PLAYER/xp.py
+TO-DO:   Re-formula the statistics based on the stats found in:
+         - http://worldofwarcraft.gameamp.com/wow/viewLevels
+         - http://vnboards.ign.com/WoW_General_Board/b19789/79597961?23
+         The 1st link has incomplete stats but it seems like WAD stats.
+         The 2nd link contains info about XP in group.
+WHO:     Cain
+STATUS:  IN PROGRESS
+COMMENT: -
+
+
+4.
+SUBJ:    XP formula in ../PLAYER/xp.py
+TO-DO:   Need a function (or two) to retrieve the total attack done by the player on the mob or vice versa.
+         This function should auto reset just after the mob is killed and CalXP() is loaded.
+         Need another function to retrieve player rest state.
+         This function will help the development of XP calculation.
+WHO:     Cain
+STATUS:  HELP (Need help from core programmer)
+COMMENT: -

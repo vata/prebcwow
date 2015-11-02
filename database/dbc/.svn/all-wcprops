@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/prebcwow/!svn/ver/1/database/dbc
+END
+TaxiPathNode.dbc
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/prebcwow/!svn/ver/1/database/dbc/TaxiPathNode.dbc
+END
+EmotesTextData.dbc
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/prebcwow/!svn/ver/1/database/dbc/EmotesTextData.dbc
+END
+SpellRange.dbc
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/prebcwow/!svn/ver/1/database/dbc/SpellRange.dbc
+END
+SpellCastTimes.dbc
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/prebcwow/!svn/ver/1/database/dbc/SpellCastTimes.dbc
+END
+EmotesText.dbc
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/prebcwow/!svn/ver/1/database/dbc/EmotesText.dbc
+END
+SkillLineAbility.dbc
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/prebcwow/!svn/ver/1/database/dbc/SkillLineAbility.dbc
+END
+ItemRandomProperties.dbc
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/prebcwow/!svn/ver/1/database/dbc/ItemRandomProperties.dbc
+END
+WorldMapArea.dbc
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/prebcwow/!svn/ver/1/database/dbc/WorldMapArea.dbc
+END
+Spell.dbc
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/prebcwow/!svn/ver/1/database/dbc/Spell.dbc
+END
+AreaTable.dbc
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/prebcwow/!svn/ver/1/database/dbc/AreaTable.dbc
+END
+SpellItemEnchantment.dbc
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/prebcwow/!svn/ver/1/database/dbc/SpellItemEnchantment.dbc
+END
+Faction.dbc
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/prebcwow/!svn/ver/1/database/dbc/Faction.dbc
+END
+SpellDuration.dbc
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/prebcwow/!svn/ver/1/database/dbc/SpellDuration.dbc
+END
+WorldMapOverlay.dbc
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/prebcwow/!svn/ver/1/database/dbc/WorldMapOverlay.dbc
+END
+Talent.dbc
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/prebcwow/!svn/ver/1/database/dbc/Talent.dbc
+END
+SpellRadius.dbc
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/prebcwow/!svn/ver/1/database/dbc/SpellRadius.dbc
+END

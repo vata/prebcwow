@@ -1,0 +1,27 @@
+Python-2.4.2.tgz
+
+1. Create solution, add Python-2.4.2/PCbuild/pythoncore.vcproj, make_versioninfo
+2. Build make_versioninfo - it creates /PC/pythonnt_rc.h, remove make_versioninfo
+3. Copy /PC/pyconfig.h and /Include/ to your include/Python/
+4. set name python24_d for MyDebug, set path to good one (default is /PCbuild/)
+5. set Py_BUILD_CORE for MyRelease, set name python24 for MyRelease
+6. to use release as static lib: in pyport.h
+	replace
+		#				define PyAPI_FUNC(RTYPE) __declspec(dllimport) RTYPE
+		#			endif /* !__CYGWIN__ */
+		#			define PyAPI_DATA(RTYPE) extern __declspec(dllimport) RTYPE
+	with
+						#if defined(_WIN32) && !defined(_DEBUG)
+		#					define PyAPI_FUNC(RTYPE) RTYPE
+						#else
+		#					define PyAPI_FUNC(RTYPE) __declspec(dllimport) RTYPE
+						#endif
+		#			endif /* !__CYGWIN__ */
+						#if defined(_WIN32) && !defined(_DEBUG)
+		#					define PyAPI_DATA(RTYPE) extern RTYPE
+						#else
+		#					define PyAPI_DATA(RTYPE) extern __declspec(dllimport) RTYPE
+						#endif
+
+out:
+includes: see step 3

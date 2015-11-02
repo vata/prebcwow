@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/prebcwow/!svn/ver/8/src/CRFusion/Version
+END
+SVNverExtractor.exe
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/prebcwow/!svn/ver/2/src/CRFusion/Version/SVNverExtractor.exe
+END
+revision.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/prebcwow/!svn/ver/2/src/CRFusion/Version/revision.h
+END
+version.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/prebcwow/!svn/ver/2/src/CRFusion/Version/version.cpp
+END
+SConstruct
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/prebcwow/!svn/ver/2/src/CRFusion/Version/SConstruct
+END
+version.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/prebcwow/!svn/ver/8/src/CRFusion/Version/version.h
+END

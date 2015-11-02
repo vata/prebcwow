@@ -1,0 +1,191 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/prebcwow/!svn/ver/2/depnew/make_Win32/Python-2.4.2/PC
+END
+testpy.py
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/prebcwow/!svn/ver/2/depnew/make_Win32/Python-2.4.2/PC/testpy.py
+END
+icons.mak
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/prebcwow/!svn/ver/2/depnew/make_Win32/Python-2.4.2/PC/icons.mak
+END
+frozen_dllmain.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/prebcwow/!svn/ver/2/depnew/make_Win32/Python-2.4.2/PC/frozen_dllmain.c
+END
+config.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/prebcwow/!svn/ver/2/depnew/make_Win32/Python-2.4.2/PC/config.c
+END
+winsound.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/prebcwow/!svn/ver/2/depnew/make_Win32/Python-2.4.2/PC/winsound.c
+END
+pythonnt_rc_d.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/prebcwow/!svn/ver/2/depnew/make_Win32/Python-2.4.2/PC/pythonnt_rc_d.h
+END
+python_nt.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/prebcwow/!svn/ver/2/depnew/make_Win32/Python-2.4.2/PC/python_nt.h
+END
+_subprocess.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/prebcwow/!svn/ver/2/depnew/make_Win32/Python-2.4.2/PC/_subprocess.c
+END
+tix.diff
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/prebcwow/!svn/ver/2/depnew/make_Win32/Python-2.4.2/PC/tix.diff
+END
+.cvsignore
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/prebcwow/!svn/ver/2/depnew/make_Win32/Python-2.4.2/PC/.cvsignore
+END
+make_versioninfo.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/prebcwow/!svn/ver/2/depnew/make_Win32/Python-2.4.2/PC/make_versioninfo.c
+END
+empty.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/prebcwow/!svn/ver/2/depnew/make_Win32/Python-2.4.2/PC/empty.c
+END
+dl_nt.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/prebcwow/!svn/ver/2/depnew/make_Win32/Python-2.4.2/PC/dl_nt.c
+END
+WinMain.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/prebcwow/!svn/ver/2/depnew/make_Win32/Python-2.4.2/PC/WinMain.c
+END
+python_exe.rc
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/prebcwow/!svn/ver/2/depnew/make_Win32/Python-2.4.2/PC/python_exe.rc
+END
+dllbase_nt.txt
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/prebcwow/!svn/ver/2/depnew/make_Win32/Python-2.4.2/PC/dllbase_nt.txt
+END
+python_nt.rc
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/prebcwow/!svn/ver/2/depnew/make_Win32/Python-2.4.2/PC/python_nt.rc
+END
+python.mk
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/prebcwow/!svn/ver/2/depnew/make_Win32/Python-2.4.2/PC/python.mk
+END
+import_nt.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/prebcwow/!svn/ver/2/depnew/make_Win32/Python-2.4.2/PC/import_nt.c
+END
+pythonnt_rc.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/prebcwow/!svn/ver/2/depnew/make_Win32/Python-2.4.2/PC/pythonnt_rc.h
+END
+getpathp.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/prebcwow/!svn/ver/2/depnew/make_Win32/Python-2.4.2/PC/getpathp.c
+END
+pycon.ico
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/prebcwow/!svn/ver/2/depnew/make_Win32/Python-2.4.2/PC/pycon.ico
+END
+py.ico
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/prebcwow/!svn/ver/2/depnew/make_Win32/Python-2.4.2/PC/py.ico
+END
+pyc.ico
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/prebcwow/!svn/ver/2/depnew/make_Win32/Python-2.4.2/PC/pyc.ico
+END
+pyconfig.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/prebcwow/!svn/ver/2/depnew/make_Win32/Python-2.4.2/PC/pyconfig.h
+END
+msvcrtmodule.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/prebcwow/!svn/ver/2/depnew/make_Win32/Python-2.4.2/PC/msvcrtmodule.c
+END
+w9xpopen.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/prebcwow/!svn/ver/2/depnew/make_Win32/Python-2.4.2/PC/w9xpopen.c
+END
+_winreg.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/prebcwow/!svn/ver/2/depnew/make_Win32/Python-2.4.2/PC/_winreg.c
+END
+python_nt_d.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/prebcwow/!svn/ver/2/depnew/make_Win32/Python-2.4.2/PC/python_nt_d.h
+END
+readme.txt
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/prebcwow/!svn/ver/2/depnew/make_Win32/Python-2.4.2/PC/readme.txt
+END
+icons.rc
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/prebcwow/!svn/ver/2/depnew/make_Win32/Python-2.4.2/PC/icons.rc
+END

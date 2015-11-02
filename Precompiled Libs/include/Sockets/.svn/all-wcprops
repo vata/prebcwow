@@ -1,0 +1,245 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/prebcwow/!svn/ver/9/Precompiled%20Libs/include/Sockets
+END
+HttpPostSocket.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/prebcwow/!svn/ver/9/Precompiled%20Libs/include/Sockets/HttpPostSocket.h
+END
+HttpdCookies.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/prebcwow/!svn/ver/9/Precompiled%20Libs/include/Sockets/HttpdCookies.h
+END
+UdpSocket.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/prebcwow/!svn/ver/9/Precompiled%20Libs/include/Sockets/UdpSocket.h
+END
+MinionSocket.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/prebcwow/!svn/ver/9/Precompiled%20Libs/include/Sockets/MinionSocket.h
+END
+CTcpSocket.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/prebcwow/!svn/ver/9/Precompiled%20Libs/include/Sockets/CTcpSocket.h
+END
+Utility.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/prebcwow/!svn/ver/9/Precompiled%20Libs/include/Sockets/Utility.h
+END
+Thread.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/prebcwow/!svn/ver/9/Precompiled%20Libs/include/Sockets/Thread.h
+END
+ListenSocket.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/prebcwow/!svn/ver/9/Precompiled%20Libs/include/Sockets/ListenSocket.h
+END
+Parse.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/prebcwow/!svn/ver/9/Precompiled%20Libs/include/Sockets/Parse.h
+END
+ICrypt.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/prebcwow/!svn/ver/9/Precompiled%20Libs/include/Sockets/ICrypt.h
+END
+HttpsGetSocket.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/prebcwow/!svn/ver/9/Precompiled%20Libs/include/Sockets/HttpsGetSocket.h
+END
+MinderHandler.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/prebcwow/!svn/ver/9/Precompiled%20Libs/include/Sockets/MinderHandler.h
+END
+MemFile.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/prebcwow/!svn/ver/9/Precompiled%20Libs/include/Sockets/MemFile.h
+END
+File.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/prebcwow/!svn/ver/9/Precompiled%20Libs/include/Sockets/File.h
+END
+SocketThread.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/prebcwow/!svn/ver/9/Precompiled%20Libs/include/Sockets/SocketThread.h
+END
+Uid.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/prebcwow/!svn/ver/9/Precompiled%20Libs/include/Sockets/Uid.h
+END
+HttpPutSocket.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/prebcwow/!svn/ver/9/Precompiled%20Libs/include/Sockets/HttpPutSocket.h
+END
+PoolSocket.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/prebcwow/!svn/ver/9/Precompiled%20Libs/include/Sockets/PoolSocket.h
+END
+Base64.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/prebcwow/!svn/ver/9/Precompiled%20Libs/include/Sockets/Base64.h
+END
+IFile.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/prebcwow/!svn/ver/9/Precompiled%20Libs/include/Sockets/IFile.h
+END
+Socket.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/prebcwow/!svn/ver/9/Precompiled%20Libs/include/Sockets/Socket.h
+END
+HTTPSocket.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/prebcwow/!svn/ver/9/Precompiled%20Libs/include/Sockets/HTTPSocket.h
+END
+socket_include.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/prebcwow/!svn/ver/9/Precompiled%20Libs/include/Sockets/socket_include.h
+END
+HttpdSocket.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/prebcwow/!svn/ver/9/Precompiled%20Libs/include/Sockets/HttpdSocket.h
+END
+NullCrypt.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/prebcwow/!svn/ver/9/Precompiled%20Libs/include/Sockets/NullCrypt.h
+END
+StdLog.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/prebcwow/!svn/ver/9/Precompiled%20Libs/include/Sockets/StdLog.h
+END
+CircularBuffer.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/prebcwow/!svn/ver/9/Precompiled%20Libs/include/Sockets/CircularBuffer.h
+END
+TcpSocket.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/prebcwow/!svn/ver/9/Precompiled%20Libs/include/Sockets/TcpSocket.h
+END
+HttpDebugSocket.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/prebcwow/!svn/ver/9/Precompiled%20Libs/include/Sockets/HttpDebugSocket.h
+END
+ResolvServer.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/prebcwow/!svn/ver/9/Precompiled%20Libs/include/Sockets/ResolvServer.h
+END
+Mutex.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/prebcwow/!svn/ver/9/Precompiled%20Libs/include/Sockets/Mutex.h
+END
+HttpdForm.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/prebcwow/!svn/ver/9/Precompiled%20Libs/include/Sockets/HttpdForm.h
+END
+SSLSocket.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/prebcwow/!svn/ver/9/Precompiled%20Libs/include/Sockets/SSLSocket.h
+END
+HttpsSocket.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/prebcwow/!svn/ver/9/Precompiled%20Libs/include/Sockets/HttpsSocket.h
+END
+ResolvSocket.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/prebcwow/!svn/ver/9/Precompiled%20Libs/include/Sockets/ResolvSocket.h
+END
+StdoutLog.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/prebcwow/!svn/ver/9/Precompiled%20Libs/include/Sockets/StdoutLog.h
+END
+SocketHandler.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/prebcwow/!svn/ver/9/Precompiled%20Libs/include/Sockets/SocketHandler.h
+END
+MinderSocket.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/prebcwow/!svn/ver/9/Precompiled%20Libs/include/Sockets/MinderSocket.h
+END
+Lock.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/prebcwow/!svn/ver/9/Precompiled%20Libs/include/Sockets/Lock.h
+END
+HttpGetSocket.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/prebcwow/!svn/ver/9/Precompiled%20Libs/include/Sockets/HttpGetSocket.h
+END

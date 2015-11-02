@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/prebcwow/!svn/ver/2/depnew/make_Win32/ZThread-2.3.2/src/vanilla
+END
+DualMutexRecursiveLock.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/prebcwow/!svn/ver/2/depnew/make_Win32/ZThread-2.3.2/src/vanilla/DualMutexRecursiveLock.h
+END
+SimpleAtomicCount.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/prebcwow/!svn/ver/2/depnew/make_Win32/ZThread-2.3.2/src/vanilla/SimpleAtomicCount.cxx
+END
+SimpleRecursiveLock.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/prebcwow/!svn/ver/2/depnew/make_Win32/ZThread-2.3.2/src/vanilla/SimpleRecursiveLock.h
+END

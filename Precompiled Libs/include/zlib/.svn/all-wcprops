@@ -1,0 +1,167 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/prebcwow/!svn/ver/9/Precompiled%20Libs/include/zlib
+END
+inffast.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/prebcwow/!svn/ver/9/Precompiled%20Libs/include/zlib/inffast.h
+END
+inffixed.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/prebcwow/!svn/ver/9/Precompiled%20Libs/include/zlib/inffixed.h
+END
+deflate.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/prebcwow/!svn/ver/9/Precompiled%20Libs/include/zlib/deflate.c
+END
+zlib.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/prebcwow/!svn/ver/9/Precompiled%20Libs/include/zlib/zlib.h
+END
+zutil.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/prebcwow/!svn/ver/9/Precompiled%20Libs/include/zlib/zutil.c
+END
+gzio.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/prebcwow/!svn/ver/9/Precompiled%20Libs/include/zlib/gzio.c
+END
+deflate.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/prebcwow/!svn/ver/9/Precompiled%20Libs/include/zlib/deflate.h
+END
+crc32.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/prebcwow/!svn/ver/9/Precompiled%20Libs/include/zlib/crc32.c
+END
+zutil.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/prebcwow/!svn/ver/9/Precompiled%20Libs/include/zlib/zutil.h
+END
+inftrees.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/prebcwow/!svn/ver/9/Precompiled%20Libs/include/zlib/inftrees.c
+END
+zlib.3
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/prebcwow/!svn/ver/9/Precompiled%20Libs/include/zlib/zlib.3
+END
+crc32.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/prebcwow/!svn/ver/9/Precompiled%20Libs/include/zlib/crc32.h
+END
+inflate.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/prebcwow/!svn/ver/9/Precompiled%20Libs/include/zlib/inflate.c
+END
+trees.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/prebcwow/!svn/ver/9/Precompiled%20Libs/include/zlib/trees.c
+END
+algorithm.txt
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/prebcwow/!svn/ver/9/Precompiled%20Libs/include/zlib/algorithm.txt
+END
+uncompr.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/prebcwow/!svn/ver/9/Precompiled%20Libs/include/zlib/uncompr.c
+END
+zconf.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/prebcwow/!svn/ver/9/Precompiled%20Libs/include/zlib/zconf.h
+END
+inftrees.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/prebcwow/!svn/ver/9/Precompiled%20Libs/include/zlib/inftrees.h
+END
+minigzip.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/prebcwow/!svn/ver/9/Precompiled%20Libs/include/zlib/minigzip.c
+END
+trees.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/prebcwow/!svn/ver/9/Precompiled%20Libs/include/zlib/trees.h
+END
+inflate.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/prebcwow/!svn/ver/9/Precompiled%20Libs/include/zlib/inflate.h
+END
+zconf.in.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/prebcwow/!svn/ver/9/Precompiled%20Libs/include/zlib/zconf.in.h
+END
+inffast.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/prebcwow/!svn/ver/9/Precompiled%20Libs/include/zlib/inffast.c
+END
+example.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/prebcwow/!svn/ver/9/Precompiled%20Libs/include/zlib/example.c
+END
+compress.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/prebcwow/!svn/ver/9/Precompiled%20Libs/include/zlib/compress.c
+END
+adler32.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/prebcwow/!svn/ver/9/Precompiled%20Libs/include/zlib/adler32.c
+END
+infback.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/prebcwow/!svn/ver/9/Precompiled%20Libs/include/zlib/infback.c
+END

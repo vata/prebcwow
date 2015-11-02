@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/prebcwow/!svn/ver/2/depnew/make_Win32/openssl-0.9.8a/crypto/md4
+END
+md4_locl.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/prebcwow/!svn/ver/2/depnew/make_Win32/openssl-0.9.8a/crypto/md4/md4_locl.h
+END
+md4.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/prebcwow/!svn/ver/2/depnew/make_Win32/openssl-0.9.8a/crypto/md4/md4.c
+END
+md4test.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/prebcwow/!svn/ver/2/depnew/make_Win32/openssl-0.9.8a/crypto/md4/md4test.c
+END
+md4_dgst.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/prebcwow/!svn/ver/2/depnew/make_Win32/openssl-0.9.8a/crypto/md4/md4_dgst.c
+END
+md4_one.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/prebcwow/!svn/ver/2/depnew/make_Win32/openssl-0.9.8a/crypto/md4/md4_one.c
+END
+md4s.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/prebcwow/!svn/ver/2/depnew/make_Win32/openssl-0.9.8a/crypto/md4/md4s.cpp
+END
+md4.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/prebcwow/!svn/ver/2/depnew/make_Win32/openssl-0.9.8a/crypto/md4/md4.h
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/prebcwow/!svn/ver/2/depnew/make_Win32/openssl-0.9.8a/crypto/md4/Makefile
+END

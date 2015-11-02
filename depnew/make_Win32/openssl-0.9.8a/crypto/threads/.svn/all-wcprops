@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/prebcwow/!svn/ver/2/depnew/make_Win32/openssl-0.9.8a/crypto/threads
+END
+pthread.sh
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/prebcwow/!svn/ver/2/depnew/make_Win32/openssl-0.9.8a/crypto/threads/pthread.sh
+END
+mttest.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/prebcwow/!svn/ver/2/depnew/make_Win32/openssl-0.9.8a/crypto/threads/mttest.c
+END
+pthread2.sh
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/prebcwow/!svn/ver/2/depnew/make_Win32/openssl-0.9.8a/crypto/threads/pthread2.sh
+END
+th-lock.c
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/prebcwow/!svn/ver/2/depnew/make_Win32/openssl-0.9.8a/crypto/threads/th-lock.c
+END
+ptest.bat
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/prebcwow/!svn/ver/2/depnew/make_Win32/openssl-0.9.8a/crypto/threads/ptest.bat
+END
+solaris.sh
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/prebcwow/!svn/ver/2/depnew/make_Win32/openssl-0.9.8a/crypto/threads/solaris.sh
+END
+purify.sh
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/prebcwow/!svn/ver/2/depnew/make_Win32/openssl-0.9.8a/crypto/threads/purify.sh
+END
+win32.bat
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/prebcwow/!svn/ver/2/depnew/make_Win32/openssl-0.9.8a/crypto/threads/win32.bat
+END
+profile.sh
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/prebcwow/!svn/ver/2/depnew/make_Win32/openssl-0.9.8a/crypto/threads/profile.sh
+END
+netware.bat
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/prebcwow/!svn/ver/2/depnew/make_Win32/openssl-0.9.8a/crypto/threads/netware.bat
+END
+pthreads-vms.com
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/prebcwow/!svn/ver/2/depnew/make_Win32/openssl-0.9.8a/crypto/threads/pthreads-vms.com
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/prebcwow/!svn/ver/2/depnew/make_Win32/openssl-0.9.8a/crypto/threads/README
+END

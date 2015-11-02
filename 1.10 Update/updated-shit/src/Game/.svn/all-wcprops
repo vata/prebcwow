@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/prebcwow/!svn/ver/1/1.10%20Update/updated-shit/src/Game
+END
+UpdateFields.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/prebcwow/!svn/ver/1/1.10%20Update/updated-shit/src/Game/UpdateFields.h
+END
+SpellEffects.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/prebcwow/!svn/ver/1/1.10%20Update/updated-shit/src/Game/SpellEffects.cpp
+END
+Unit.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/prebcwow/!svn/ver/1/1.10%20Update/updated-shit/src/Game/Unit.cpp
+END
+TaxiHandler.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/prebcwow/!svn/ver/1/1.10%20Update/updated-shit/src/Game/TaxiHandler.cpp
+END
+Unit.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/prebcwow/!svn/ver/1/1.10%20Update/updated-shit/src/Game/Unit.h
+END
+Object.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/prebcwow/!svn/ver/1/1.10%20Update/updated-shit/src/Game/Object.cpp
+END
+MovementHandler.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/prebcwow/!svn/ver/1/1.10%20Update/updated-shit/src/Game/MovementHandler.cpp
+END
+Creature.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/prebcwow/!svn/ver/1/1.10%20Update/updated-shit/src/Game/Creature.cpp
+END
+Object.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/prebcwow/!svn/ver/1/1.10%20Update/updated-shit/src/Game/Object.h
+END
+Player.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/prebcwow/!svn/ver/1/1.10%20Update/updated-shit/src/Game/Player.cpp
+END
+UpdateData.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/prebcwow/!svn/ver/1/1.10%20Update/updated-shit/src/Game/UpdateData.cpp
+END

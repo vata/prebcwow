@@ -1,0 +1,34 @@
+openssl-0.9.8a.tar.gz
+
+1. My debug: (dll, Multithreaded DLL (Default))
+
+	cd openssl-0.9.8a
+	perl Configure VC-WIN32
+	ms\do_masm
+	nmake -f ms\ntdll.mak
+
+	out:
+	inc32/openssl/*.h, *.c
+	out32dll/*.dll, *.lib
+
+
+2. My release (static lib, Multithreaded)
+
+	in nt.mak: "CFLAG= /MD..." -> "CFLAG= /MT..."
+
+	nmake -f ms\nt.mak
+
+	Requires:
+	wsock32.lib gdi32.lib advapi32.lib user32.lib
+
+	out:
+	inc32/openssl/*.h, *.c
+	out32/*.dll, *.lib
+
+3. Note: (to make debug ver)
+
+	in do_masm.bat insert "debug" in line
+	"perl util\mk1mf.pl debug dll VC-WIN32 >ms\ntdll.mak"
+
+	ms\do_masm
+	nmake -f ms\ntdll.mak

@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/prebcwow/!svn/ver/2/depnew/make_Win32/openssl-0.9.8a/demos/bio
+END
+saccept.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/prebcwow/!svn/ver/2/depnew/make_Win32/openssl-0.9.8a/demos/bio/saccept.c
+END
+server.pem
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/prebcwow/!svn/ver/2/depnew/make_Win32/openssl-0.9.8a/demos/bio/server.pem
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/prebcwow/!svn/ver/2/depnew/make_Win32/openssl-0.9.8a/demos/bio/Makefile
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/prebcwow/!svn/ver/2/depnew/make_Win32/openssl-0.9.8a/demos/bio/README
+END
+sconnect.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/prebcwow/!svn/ver/2/depnew/make_Win32/openssl-0.9.8a/demos/bio/sconnect.c
+END

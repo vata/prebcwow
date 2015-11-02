@@ -1,0 +1,125 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/prebcwow/!svn/ver/2/depnew/make_Win32/Python-2.4.2/Modules/expat
+END
+xmltok_impl.c
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/prebcwow/!svn/ver/2/depnew/make_Win32/Python-2.4.2/Modules/expat/xmltok_impl.c
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/prebcwow/!svn/ver/2/depnew/make_Win32/Python-2.4.2/Modules/expat/Makefile.in
+END
+xmltok_impl.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/prebcwow/!svn/ver/2/depnew/make_Win32/Python-2.4.2/Modules/expat/xmltok_impl.h
+END
+nametab.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/prebcwow/!svn/ver/2/depnew/make_Win32/Python-2.4.2/Modules/expat/nametab.h
+END
+xmltok.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/prebcwow/!svn/ver/2/depnew/make_Win32/Python-2.4.2/Modules/expat/xmltok.c
+END
+xmltok_ns.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/prebcwow/!svn/ver/2/depnew/make_Win32/Python-2.4.2/Modules/expat/xmltok_ns.c
+END
+internal.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/prebcwow/!svn/ver/2/depnew/make_Win32/Python-2.4.2/Modules/expat/internal.h
+END
+xmlrole.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/prebcwow/!svn/ver/2/depnew/make_Win32/Python-2.4.2/Modules/expat/xmlrole.c
+END
+utf8tab.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/prebcwow/!svn/ver/2/depnew/make_Win32/Python-2.4.2/Modules/expat/utf8tab.h
+END
+xmltok.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/prebcwow/!svn/ver/2/depnew/make_Win32/Python-2.4.2/Modules/expat/xmltok.h
+END
+latin1tab.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/prebcwow/!svn/ver/2/depnew/make_Win32/Python-2.4.2/Modules/expat/latin1tab.h
+END
+asciitab.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/prebcwow/!svn/ver/2/depnew/make_Win32/Python-2.4.2/Modules/expat/asciitab.h
+END
+expat.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/prebcwow/!svn/ver/2/depnew/make_Win32/Python-2.4.2/Modules/expat/expat.h
+END
+xmlrole.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/prebcwow/!svn/ver/2/depnew/make_Win32/Python-2.4.2/Modules/expat/xmlrole.h
+END
+expat_external.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/prebcwow/!svn/ver/2/depnew/make_Win32/Python-2.4.2/Modules/expat/expat_external.h
+END
+winconfig.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/prebcwow/!svn/ver/2/depnew/make_Win32/Python-2.4.2/Modules/expat/winconfig.h
+END
+macconfig.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/prebcwow/!svn/ver/2/depnew/make_Win32/Python-2.4.2/Modules/expat/macconfig.h
+END
+xmlparse.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/prebcwow/!svn/ver/2/depnew/make_Win32/Python-2.4.2/Modules/expat/xmlparse.c
+END
+ascii.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/prebcwow/!svn/ver/2/depnew/make_Win32/Python-2.4.2/Modules/expat/ascii.h
+END
+iasciitab.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/prebcwow/!svn/ver/2/depnew/make_Win32/Python-2.4.2/Modules/expat/iasciitab.h
+END

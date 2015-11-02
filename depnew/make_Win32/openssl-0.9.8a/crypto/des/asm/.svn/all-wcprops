@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/prebcwow/!svn/ver/2/depnew/make_Win32/openssl-0.9.8a/crypto/des/asm
+END
+des_enc.m4
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/prebcwow/!svn/ver/2/depnew/make_Win32/openssl-0.9.8a/crypto/des/asm/des_enc.m4
+END
+desboth.pl
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/prebcwow/!svn/ver/2/depnew/make_Win32/openssl-0.9.8a/crypto/des/asm/desboth.pl
+END
+y_win32.obj
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/prebcwow/!svn/ver/2/depnew/make_Win32/openssl-0.9.8a/crypto/des/asm/y_win32.obj
+END
+d_win32.asm
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/prebcwow/!svn/ver/2/depnew/make_Win32/openssl-0.9.8a/crypto/des/asm/d_win32.asm
+END
+des-586.pl
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/prebcwow/!svn/ver/2/depnew/make_Win32/openssl-0.9.8a/crypto/des/asm/des-586.pl
+END
+des686.pl
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/prebcwow/!svn/ver/2/depnew/make_Win32/openssl-0.9.8a/crypto/des/asm/des686.pl
+END
+y_win32.asm
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/prebcwow/!svn/ver/2/depnew/make_Win32/openssl-0.9.8a/crypto/des/asm/y_win32.asm
+END
+readme
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/prebcwow/!svn/ver/2/depnew/make_Win32/openssl-0.9.8a/crypto/des/asm/readme
+END
+crypt586.pl
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/prebcwow/!svn/ver/2/depnew/make_Win32/openssl-0.9.8a/crypto/des/asm/crypt586.pl
+END
+d_win32.obj
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/prebcwow/!svn/ver/2/depnew/make_Win32/openssl-0.9.8a/crypto/des/asm/d_win32.obj
+END

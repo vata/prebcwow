@@ -1,0 +1,27 @@
+ZThread-2.3.2.tar.gz
+
+1. include/zthread/Config.h:
+	
+	a. uncommnet:
+		#define ZT_WIN32 1
+
+		#define HAVE_BEGINTHREADEX 1
+	
+	b. replace in library build:
+		// #define ZTHREAD_EXPORTS 1
+	with
+		#if defined(WIN32) && defined(_WINDLL)
+			#define ZTHREAD_EXPORTS 1
+		#endif
+
+	c. replace in client build:
+		// #define ZTHREAD_IMPORTS 1
+	with
+		#if defined(WIN32) && defined(_DEBUG)
+			#define ZTHREAD_IMPORTS 1
+		#endif
+
+2. add all cxx from /src/ but not subdirs to project
+3. set optimization, set inc to ZThread-2.3.2/include/
+4. set release dll MD, build (set base addr=0xF600000)
+5. set release lib MT, build

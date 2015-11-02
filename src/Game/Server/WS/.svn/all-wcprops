@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/prebcwow/!svn/ver/2/src/Game/Server/WS
+END
+WowCrypt.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/prebcwow/!svn/ver/2/src/Game/Server/WS/WowCrypt.cpp
+END
+WorldSocket.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/prebcwow/!svn/ver/2/src/Game/Server/WS/WorldSocket.cpp
+END
+InterThreadQueue.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/prebcwow/!svn/ver/2/src/Game/Server/WS/InterThreadQueue.h
+END
+WowCrypt.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/prebcwow/!svn/ver/2/src/Game/Server/WS/WowCrypt.h
+END
+WorldSocket.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/prebcwow/!svn/ver/2/src/Game/Server/WS/WorldSocket.h
+END
+WorldSocketMgr.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/prebcwow/!svn/ver/2/src/Game/Server/WS/WorldSocketMgr.cpp
+END
+InterThreadPair.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/prebcwow/!svn/ver/2/src/Game/Server/WS/InterThreadPair.h
+END
+WorldSocketMgr.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/prebcwow/!svn/ver/2/src/Game/Server/WS/WorldSocketMgr.h
+END

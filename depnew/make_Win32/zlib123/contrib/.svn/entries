@@ -1,0 +1,122 @@
+10
+
+dir
+10
+https://subversion.assembla.com/svn/prebcwow/depnew/make_Win32/zlib123/contrib
+https://subversion.assembla.com/svn/prebcwow
+
+
+
+2009-04-05T03:05:40.665608Z
+2
+coolmanbobtest
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+080cfd25-d5d9-4c59-82ea-70d02a200d8b
+
+minizip
+dir
+
+iostream
+dir
+
+asm586
+dir
+
+asm686
+dir
+
+ada
+dir
+
+infback9
+dir
+
+README.contrib
+file
+
+
+
+
+2015-11-02T11:40:06.000000Z
+0dffb4eb9098e681b0f72f13df49da5c
+2009-04-05T03:05:40.665608Z
+2
+coolmanbobtest
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2771
+
+vstudio
+dir
+
+masmx64
+dir
+
+inflate86
+dir
+
+puff
+dir
+
+testzlib
+dir
+
+masm686
+dir
+
+masmx86
+dir
+
+pascal
+dir
+
+iostream2
+dir
+
+delphi
+dir
+
+blast
+dir
+
+iostream3
+dir
+
+dotzlib
+dir
+
+untgz
+dir
+

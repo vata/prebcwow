@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/prebcwow/!svn/ver/2/depnew/make_Win32/Python-2.4.2/RISCOS/Modules
+END
+getpath_riscos.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/prebcwow/!svn/ver/2/depnew/make_Win32/Python-2.4.2/RISCOS/Modules/getpath_riscos.c
+END
+config.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/prebcwow/!svn/ver/2/depnew/make_Win32/Python-2.4.2/RISCOS/Modules/config.c
+END
+riscosmodule.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/prebcwow/!svn/ver/2/depnew/make_Win32/Python-2.4.2/RISCOS/Modules/riscosmodule.c
+END
+swimodule.c
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/prebcwow/!svn/ver/2/depnew/make_Win32/Python-2.4.2/RISCOS/Modules/swimodule.c
+END
+drawfmodule.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/prebcwow/!svn/ver/2/depnew/make_Win32/Python-2.4.2/RISCOS/Modules/drawfmodule.c
+END

@@ -1,0 +1,18 @@
+
+#ifndef __MISCHANDLER_H
+#define __MISCHANDLER_H
+
+
+struct GraveyardTeleport
+{
+	float X;
+	float Y;
+	float Z;
+	float O;
+	uint32 MapId;
+	uint32 ZoneId;
+	uint32 FactionID;
+};
+
+#endif
+

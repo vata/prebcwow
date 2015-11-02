@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/prebcwow/!svn/ver/2/depnew/make_Win32/openssl-0.9.8a/crypto/ripemd/asm
+END
+rm_win32.asm
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/prebcwow/!svn/ver/2/depnew/make_Win32/openssl-0.9.8a/crypto/ripemd/asm/rm_win32.asm
+END
+rm_win32.obj
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/prebcwow/!svn/ver/2/depnew/make_Win32/openssl-0.9.8a/crypto/ripemd/asm/rm_win32.obj
+END
+rmd-586.pl
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/prebcwow/!svn/ver/2/depnew/make_Win32/openssl-0.9.8a/crypto/ripemd/asm/rmd-586.pl
+END
+rips.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/prebcwow/!svn/ver/2/depnew/make_Win32/openssl-0.9.8a/crypto/ripemd/asm/rips.cpp
+END

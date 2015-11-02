@@ -1,0 +1,497 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/prebcwow/!svn/ver/2/depnew/make_Win32/Sockets-1.9.8
+END
+CircularBuffer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/prebcwow/!svn/ver/2/depnew/make_Win32/Sockets-1.9.8/CircularBuffer.cpp
+END
+HttpDebugSocket.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/prebcwow/!svn/ver/2/depnew/make_Win32/Sockets-1.9.8/HttpDebugSocket.cpp
+END
+TcpSocket.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/prebcwow/!svn/ver/2/depnew/make_Win32/Sockets-1.9.8/TcpSocket.cpp
+END
+ResolvServer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/prebcwow/!svn/ver/2/depnew/make_Win32/Sockets-1.9.8/ResolvServer.cpp
+END
+Mutex.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/prebcwow/!svn/ver/2/depnew/make_Win32/Sockets-1.9.8/Mutex.cpp
+END
+HttpdCookies.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/prebcwow/!svn/ver/2/depnew/make_Win32/Sockets-1.9.8/HttpdCookies.h
+END
+HttpsSocket.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/prebcwow/!svn/ver/2/depnew/make_Win32/Sockets-1.9.8/HttpsSocket.cpp
+END
+ListenSocket.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/prebcwow/!svn/ver/2/depnew/make_Win32/Sockets-1.9.8/ListenSocket.h
+END
+ICrypt.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/prebcwow/!svn/ver/2/depnew/make_Win32/Sockets-1.9.8/ICrypt.h
+END
+HttpsGetSocket.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/prebcwow/!svn/ver/2/depnew/make_Win32/Sockets-1.9.8/HttpsGetSocket.h
+END
+MinderHandler.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/prebcwow/!svn/ver/2/depnew/make_Win32/Sockets-1.9.8/MinderHandler.h
+END
+ResolvSocket.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/prebcwow/!svn/ver/2/depnew/make_Win32/Sockets-1.9.8/ResolvSocket.cpp
+END
+MemFile.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/prebcwow/!svn/ver/2/depnew/make_Win32/Sockets-1.9.8/MemFile.h
+END
+SocketThread.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/prebcwow/!svn/ver/2/depnew/make_Win32/Sockets-1.9.8/SocketThread.h
+END
+SocketHandler.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/prebcwow/!svn/ver/2/depnew/make_Win32/Sockets-1.9.8/SocketHandler.cpp
+END
+PoolSocket.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/prebcwow/!svn/ver/2/depnew/make_Win32/Sockets-1.9.8/PoolSocket.h
+END
+Lock.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/prebcwow/!svn/ver/2/depnew/make_Win32/Sockets-1.9.8/Lock.cpp
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/prebcwow/!svn/ver/2/depnew/make_Win32/Sockets-1.9.8/Makefile
+END
+HTTPSocket.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/prebcwow/!svn/ver/2/depnew/make_Win32/Sockets-1.9.8/HTTPSocket.h
+END
+HttpPostSocket.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/prebcwow/!svn/ver/2/depnew/make_Win32/Sockets-1.9.8/HttpPostSocket.cpp
+END
+NullCrypt.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/prebcwow/!svn/ver/2/depnew/make_Win32/Sockets-1.9.8/NullCrypt.h
+END
+StdLog.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/prebcwow/!svn/ver/2/depnew/make_Win32/Sockets-1.9.8/StdLog.h
+END
+MinionSocket.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/prebcwow/!svn/ver/2/depnew/make_Win32/Sockets-1.9.8/MinionSocket.cpp
+END
+CTcpSocket.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/prebcwow/!svn/ver/2/depnew/make_Win32/Sockets-1.9.8/CTcpSocket.cpp
+END
+CircularBuffer.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/prebcwow/!svn/ver/2/depnew/make_Win32/Sockets-1.9.8/CircularBuffer.h
+END
+mkdot.sh
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/prebcwow/!svn/ver/2/depnew/make_Win32/Sockets-1.9.8/mkdot.sh
+END
+Mutex.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/prebcwow/!svn/ver/2/depnew/make_Win32/Sockets-1.9.8/Mutex.h
+END
+Parse.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/prebcwow/!svn/ver/2/depnew/make_Win32/Sockets-1.9.8/Parse.cpp
+END
+sockets_test.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/prebcwow/!svn/ver/2/depnew/make_Win32/Sockets-1.9.8/sockets_test.cpp
+END
+HttpsGetSocket.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/prebcwow/!svn/ver/2/depnew/make_Win32/Sockets-1.9.8/HttpsGetSocket.cpp
+END
+HttpdForm.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/prebcwow/!svn/ver/2/depnew/make_Win32/Sockets-1.9.8/HttpdForm.h
+END
+Base64.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/prebcwow/!svn/ver/2/depnew/make_Win32/Sockets-1.9.8/Base64.cpp
+END
+Socket.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/prebcwow/!svn/ver/2/depnew/make_Win32/Sockets-1.9.8/Socket.cpp
+END
+SocketHandler.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/prebcwow/!svn/ver/2/depnew/make_Win32/Sockets-1.9.8/SocketHandler.h
+END
+HttpdSocket.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/prebcwow/!svn/ver/2/depnew/make_Win32/Sockets-1.9.8/HttpdSocket.cpp
+END
+MinderSocket.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/prebcwow/!svn/ver/2/depnew/make_Win32/Sockets-1.9.8/MinderSocket.h
+END
+Lock.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/prebcwow/!svn/ver/2/depnew/make_Win32/Sockets-1.9.8/Lock.h
+END
+HttpPostSocket.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/prebcwow/!svn/ver/2/depnew/make_Win32/Sockets-1.9.8/HttpPostSocket.h
+END
+README.macosx
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/prebcwow/!svn/ver/2/depnew/make_Win32/Sockets-1.9.8/README.macosx
+END
+UdpSocket.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/prebcwow/!svn/ver/2/depnew/make_Win32/Sockets-1.9.8/UdpSocket.h
+END
+HttpdForm.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/prebcwow/!svn/ver/2/depnew/make_Win32/Sockets-1.9.8/HttpdForm.cpp
+END
+MinionSocket.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/prebcwow/!svn/ver/2/depnew/make_Win32/Sockets-1.9.8/MinionSocket.h
+END
+CTcpSocket.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/prebcwow/!svn/ver/2/depnew/make_Win32/Sockets-1.9.8/CTcpSocket.h
+END
+Utility.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/prebcwow/!svn/ver/2/depnew/make_Win32/Sockets-1.9.8/Utility.h
+END
+SSLSocket.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/prebcwow/!svn/ver/2/depnew/make_Win32/Sockets-1.9.8/SSLSocket.cpp
+END
+Thread.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/prebcwow/!svn/ver/2/depnew/make_Win32/Sockets-1.9.8/Thread.h
+END
+gpl.txt
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/prebcwow/!svn/ver/2/depnew/make_Win32/Sockets-1.9.8/gpl.txt
+END
+Parse.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/prebcwow/!svn/ver/2/depnew/make_Win32/Sockets-1.9.8/Parse.h
+END
+StdoutLog.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/prebcwow/!svn/ver/2/depnew/make_Win32/Sockets-1.9.8/StdoutLog.cpp
+END
+File.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/prebcwow/!svn/ver/2/depnew/make_Win32/Sockets-1.9.8/File.h
+END
+HttpPutSocket.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/prebcwow/!svn/ver/2/depnew/make_Win32/Sockets-1.9.8/HttpPutSocket.h
+END
+Uid.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/prebcwow/!svn/ver/2/depnew/make_Win32/Sockets-1.9.8/Uid.h
+END
+MinderSocket.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/prebcwow/!svn/ver/2/depnew/make_Win32/Sockets-1.9.8/MinderSocket.cpp
+END
+HttpGetSocket.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/prebcwow/!svn/ver/2/depnew/make_Win32/Sockets-1.9.8/HttpGetSocket.cpp
+END
+Base64.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/prebcwow/!svn/ver/2/depnew/make_Win32/Sockets-1.9.8/Base64.h
+END
+Socket.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/prebcwow/!svn/ver/2/depnew/make_Win32/Sockets-1.9.8/Socket.h
+END
+IFile.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/prebcwow/!svn/ver/2/depnew/make_Win32/Sockets-1.9.8/IFile.h
+END
+socket_include.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/prebcwow/!svn/ver/2/depnew/make_Win32/Sockets-1.9.8/socket_include.h
+END
+HttpdCookies.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/prebcwow/!svn/ver/2/depnew/make_Win32/Sockets-1.9.8/HttpdCookies.cpp
+END
+HttpdSocket.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/prebcwow/!svn/ver/2/depnew/make_Win32/Sockets-1.9.8/HttpdSocket.h
+END
+UdpSocket.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/prebcwow/!svn/ver/2/depnew/make_Win32/Sockets-1.9.8/UdpSocket.cpp
+END
+Utility.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/prebcwow/!svn/ver/2/depnew/make_Win32/Sockets-1.9.8/Utility.cpp
+END
+TcpSocket.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/prebcwow/!svn/ver/2/depnew/make_Win32/Sockets-1.9.8/TcpSocket.h
+END
+HttpDebugSocket.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/prebcwow/!svn/ver/2/depnew/make_Win32/Sockets-1.9.8/HttpDebugSocket.h
+END
+ResolvServer.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/prebcwow/!svn/ver/2/depnew/make_Win32/Sockets-1.9.8/ResolvServer.h
+END
+Thread.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/prebcwow/!svn/ver/2/depnew/make_Win32/Sockets-1.9.8/Thread.cpp
+END
+MinderHandler.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/prebcwow/!svn/ver/2/depnew/make_Win32/Sockets-1.9.8/MinderHandler.cpp
+END
+Sockets-config.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/prebcwow/!svn/ver/2/depnew/make_Win32/Sockets-1.9.8/Sockets-config.cpp
+END
+MemFile.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/prebcwow/!svn/ver/2/depnew/make_Win32/Sockets-1.9.8/MemFile.cpp
+END
+File.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/prebcwow/!svn/ver/2/depnew/make_Win32/Sockets-1.9.8/File.cpp
+END
+SSLSocket.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/prebcwow/!svn/ver/2/depnew/make_Win32/Sockets-1.9.8/SSLSocket.h
+END
+SocketThread.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/prebcwow/!svn/ver/2/depnew/make_Win32/Sockets-1.9.8/SocketThread.cpp
+END
+HttpsSocket.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/prebcwow/!svn/ver/2/depnew/make_Win32/Sockets-1.9.8/HttpsSocket.h
+END
+HttpPutSocket.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/prebcwow/!svn/ver/2/depnew/make_Win32/Sockets-1.9.8/HttpPutSocket.cpp
+END
+Uid.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/prebcwow/!svn/ver/2/depnew/make_Win32/Sockets-1.9.8/Uid.cpp
+END
+PoolSocket.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/prebcwow/!svn/ver/2/depnew/make_Win32/Sockets-1.9.8/PoolSocket.cpp
+END
+HTTPSocket.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/prebcwow/!svn/ver/2/depnew/make_Win32/Sockets-1.9.8/HTTPSocket.cpp
+END
+ResolvSocket.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/prebcwow/!svn/ver/2/depnew/make_Win32/Sockets-1.9.8/ResolvSocket.h
+END
+StdoutLog.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/prebcwow/!svn/ver/2/depnew/make_Win32/Sockets-1.9.8/StdoutLog.h
+END
+socket_include.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/prebcwow/!svn/ver/2/depnew/make_Win32/Sockets-1.9.8/socket_include.cpp
+END
+NullCrypt.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/prebcwow/!svn/ver/2/depnew/make_Win32/Sockets-1.9.8/NullCrypt.cpp
+END
+HttpGetSocket.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/prebcwow/!svn/ver/2/depnew/make_Win32/Sockets-1.9.8/HttpGetSocket.h
+END

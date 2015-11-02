@@ -1,0 +1,131 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/prebcwow/!svn/ver/2/depnew/make_Win32/Python-2.4.2/Parser
+END
+acceler.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/prebcwow/!svn/ver/2/depnew/make_Win32/Python-2.4.2/Parser/acceler.c
+END
+pgenmain.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/prebcwow/!svn/ver/2/depnew/make_Win32/Python-2.4.2/Parser/pgenmain.c
+END
+parser.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/prebcwow/!svn/ver/2/depnew/make_Win32/Python-2.4.2/Parser/parser.h
+END
+printgrammar.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/prebcwow/!svn/ver/2/depnew/make_Win32/Python-2.4.2/Parser/printgrammar.c
+END
+grammar1.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/prebcwow/!svn/ver/2/depnew/make_Win32/Python-2.4.2/Parser/grammar1.c
+END
+intrcheck.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/prebcwow/!svn/ver/2/depnew/make_Win32/Python-2.4.2/Parser/intrcheck.c
+END
+tokenizer.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/prebcwow/!svn/ver/2/depnew/make_Win32/Python-2.4.2/Parser/tokenizer.c
+END
+grammar.mak
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/prebcwow/!svn/ver/2/depnew/make_Win32/Python-2.4.2/Parser/grammar.mak
+END
+tokenizer.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/prebcwow/!svn/ver/2/depnew/make_Win32/Python-2.4.2/Parser/tokenizer.h
+END
+listnode.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/prebcwow/!svn/ver/2/depnew/make_Win32/Python-2.4.2/Parser/listnode.c
+END
+tokenizer_pgen.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/prebcwow/!svn/ver/2/depnew/make_Win32/Python-2.4.2/Parser/tokenizer_pgen.c
+END
+node.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/prebcwow/!svn/ver/2/depnew/make_Win32/Python-2.4.2/Parser/node.c
+END
+grammar.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/prebcwow/!svn/ver/2/depnew/make_Win32/Python-2.4.2/Parser/grammar.c
+END
+firstsets.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/prebcwow/!svn/ver/2/depnew/make_Win32/Python-2.4.2/Parser/firstsets.c
+END
+parsetok.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/prebcwow/!svn/ver/2/depnew/make_Win32/Python-2.4.2/Parser/parsetok.c
+END
+pgen.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/prebcwow/!svn/ver/2/depnew/make_Win32/Python-2.4.2/Parser/pgen.c
+END
+myreadline.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/prebcwow/!svn/ver/2/depnew/make_Win32/Python-2.4.2/Parser/myreadline.c
+END
+bitset.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/prebcwow/!svn/ver/2/depnew/make_Win32/Python-2.4.2/Parser/bitset.c
+END
+parser.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/prebcwow/!svn/ver/2/depnew/make_Win32/Python-2.4.2/Parser/parser.c
+END
+.cvsignore
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/prebcwow/!svn/ver/2/depnew/make_Win32/Python-2.4.2/Parser/.cvsignore
+END
+metagrammar.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/prebcwow/!svn/ver/2/depnew/make_Win32/Python-2.4.2/Parser/metagrammar.c
+END

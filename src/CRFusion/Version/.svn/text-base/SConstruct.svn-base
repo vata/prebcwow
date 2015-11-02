@@ -1,0 +1,22 @@
+# !!! USE MAIN SCONSTRUCT-FILE FOR COMPILING !!!
+#
+# --> SConstruct for CRFusion
+#
+# If you want to compile only the executable comment other
+# SConstruct invocations in main SConstruct out
+#
+
+StaticLibrary('../../build/version', [
+		'version.cpp'
+	],
+	CPPPATH = [
+		'../../src/Game',
+		'../../src/CRFusion',
+		'../../src/RealmList',
+		'../../src/Shared',
+		'../../src/Spells',
+		'../../depnew/Unix_dep/',
+                '/usr/include/python2.4'		
+	], 
+	CCFLAGS = '-fpermissive -w'
+)

@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/prebcwow/!svn/ver/2/src/Spells
+END
+stdafx.h
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/prebcwow/!svn/ver/2/src/Spells/stdafx.h
+END
+SConstruct
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/prebcwow/!svn/ver/2/src/Spells/SConstruct
+END
+SpellTable.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/prebcwow/!svn/ver/2/src/Spells/SpellTable.cpp
+END
+Spells.h
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/prebcwow/!svn/ver/2/src/Spells/Spells.h
+END
+stdafx.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/prebcwow/!svn/ver/2/src/Spells/stdafx.cpp
+END
+UnitAuras.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/prebcwow/!svn/ver/2/src/Spells/UnitAuras.cpp
+END

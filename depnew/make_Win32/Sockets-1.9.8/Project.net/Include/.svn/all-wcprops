@@ -1,0 +1,245 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/prebcwow/!svn/ver/2/depnew/make_Win32/Sockets-1.9.8/Project.net/Include
+END
+HttpPostSocket.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/prebcwow/!svn/ver/2/depnew/make_Win32/Sockets-1.9.8/Project.net/Include/HttpPostSocket.h
+END
+HttpdCookies.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/prebcwow/!svn/ver/2/depnew/make_Win32/Sockets-1.9.8/Project.net/Include/HttpdCookies.h
+END
+UdpSocket.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/prebcwow/!svn/ver/2/depnew/make_Win32/Sockets-1.9.8/Project.net/Include/UdpSocket.h
+END
+MinionSocket.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/prebcwow/!svn/ver/2/depnew/make_Win32/Sockets-1.9.8/Project.net/Include/MinionSocket.h
+END
+CTcpSocket.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/prebcwow/!svn/ver/2/depnew/make_Win32/Sockets-1.9.8/Project.net/Include/CTcpSocket.h
+END
+Utility.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/prebcwow/!svn/ver/2/depnew/make_Win32/Sockets-1.9.8/Project.net/Include/Utility.h
+END
+Thread.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/prebcwow/!svn/ver/2/depnew/make_Win32/Sockets-1.9.8/Project.net/Include/Thread.h
+END
+ListenSocket.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/prebcwow/!svn/ver/2/depnew/make_Win32/Sockets-1.9.8/Project.net/Include/ListenSocket.h
+END
+ICrypt.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/prebcwow/!svn/ver/2/depnew/make_Win32/Sockets-1.9.8/Project.net/Include/ICrypt.h
+END
+Parse.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/prebcwow/!svn/ver/2/depnew/make_Win32/Sockets-1.9.8/Project.net/Include/Parse.h
+END
+HttpsGetSocket.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/prebcwow/!svn/ver/2/depnew/make_Win32/Sockets-1.9.8/Project.net/Include/HttpsGetSocket.h
+END
+MinderHandler.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/prebcwow/!svn/ver/2/depnew/make_Win32/Sockets-1.9.8/Project.net/Include/MinderHandler.h
+END
+MemFile.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/prebcwow/!svn/ver/2/depnew/make_Win32/Sockets-1.9.8/Project.net/Include/MemFile.h
+END
+File.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/prebcwow/!svn/ver/2/depnew/make_Win32/Sockets-1.9.8/Project.net/Include/File.h
+END
+SocketThread.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/prebcwow/!svn/ver/2/depnew/make_Win32/Sockets-1.9.8/Project.net/Include/SocketThread.h
+END
+Uid.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/prebcwow/!svn/ver/2/depnew/make_Win32/Sockets-1.9.8/Project.net/Include/Uid.h
+END
+HttpPutSocket.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/prebcwow/!svn/ver/2/depnew/make_Win32/Sockets-1.9.8/Project.net/Include/HttpPutSocket.h
+END
+PoolSocket.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/prebcwow/!svn/ver/2/depnew/make_Win32/Sockets-1.9.8/Project.net/Include/PoolSocket.h
+END
+Base64.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/prebcwow/!svn/ver/2/depnew/make_Win32/Sockets-1.9.8/Project.net/Include/Base64.h
+END
+HTTPSocket.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/prebcwow/!svn/ver/2/depnew/make_Win32/Sockets-1.9.8/Project.net/Include/HTTPSocket.h
+END
+Socket.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/prebcwow/!svn/ver/2/depnew/make_Win32/Sockets-1.9.8/Project.net/Include/Socket.h
+END
+IFile.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/prebcwow/!svn/ver/2/depnew/make_Win32/Sockets-1.9.8/Project.net/Include/IFile.h
+END
+socket_include.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/prebcwow/!svn/ver/2/depnew/make_Win32/Sockets-1.9.8/Project.net/Include/socket_include.h
+END
+HttpdSocket.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/prebcwow/!svn/ver/2/depnew/make_Win32/Sockets-1.9.8/Project.net/Include/HttpdSocket.h
+END
+NullCrypt.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/prebcwow/!svn/ver/2/depnew/make_Win32/Sockets-1.9.8/Project.net/Include/NullCrypt.h
+END
+StdLog.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/prebcwow/!svn/ver/2/depnew/make_Win32/Sockets-1.9.8/Project.net/Include/StdLog.h
+END
+CircularBuffer.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/prebcwow/!svn/ver/2/depnew/make_Win32/Sockets-1.9.8/Project.net/Include/CircularBuffer.h
+END
+HttpDebugSocket.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/prebcwow/!svn/ver/2/depnew/make_Win32/Sockets-1.9.8/Project.net/Include/HttpDebugSocket.h
+END
+TcpSocket.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/prebcwow/!svn/ver/2/depnew/make_Win32/Sockets-1.9.8/Project.net/Include/TcpSocket.h
+END
+ResolvServer.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/prebcwow/!svn/ver/2/depnew/make_Win32/Sockets-1.9.8/Project.net/Include/ResolvServer.h
+END
+Mutex.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/prebcwow/!svn/ver/2/depnew/make_Win32/Sockets-1.9.8/Project.net/Include/Mutex.h
+END
+HttpdForm.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/prebcwow/!svn/ver/2/depnew/make_Win32/Sockets-1.9.8/Project.net/Include/HttpdForm.h
+END
+SSLSocket.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/prebcwow/!svn/ver/2/depnew/make_Win32/Sockets-1.9.8/Project.net/Include/SSLSocket.h
+END
+HttpsSocket.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/prebcwow/!svn/ver/2/depnew/make_Win32/Sockets-1.9.8/Project.net/Include/HttpsSocket.h
+END
+ResolvSocket.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/prebcwow/!svn/ver/2/depnew/make_Win32/Sockets-1.9.8/Project.net/Include/ResolvSocket.h
+END
+StdoutLog.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/prebcwow/!svn/ver/2/depnew/make_Win32/Sockets-1.9.8/Project.net/Include/StdoutLog.h
+END
+SocketHandler.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/prebcwow/!svn/ver/2/depnew/make_Win32/Sockets-1.9.8/Project.net/Include/SocketHandler.h
+END
+MinderSocket.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/prebcwow/!svn/ver/2/depnew/make_Win32/Sockets-1.9.8/Project.net/Include/MinderSocket.h
+END
+HttpGetSocket.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/prebcwow/!svn/ver/2/depnew/make_Win32/Sockets-1.9.8/Project.net/Include/HttpGetSocket.h
+END
+Lock.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/prebcwow/!svn/ver/2/depnew/make_Win32/Sockets-1.9.8/Project.net/Include/Lock.h
+END

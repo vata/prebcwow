@@ -1,0 +1,94 @@
+1. MySQL 4.1.14
+
+	Page:
+	http://dev.mysql.com/downloads/mysql/4.1.html
+
+	Right MySQL bin:
+	http://dev.mysql.com/get/Downloads/MySQL-4.1/mysql-4.1.14-win32.zip/from/pick
+
+	Sources:
+	http://dev.mysql.com/get/Downloads/MySQL-4.1/mysql-4.1.14-win-src.zip/from/pick
+
+
+2. OpenSSL 0.9.8a
+	
+	Page:
+	http://www.openssl.org/source/
+
+	Sources:
+	http://www.openssl.org/source/openssl-0.9.8a.tar.gz
+
+
+3. zlib 1.2.3
+
+	Page:
+	http://www.zlib.org
+
+	Sources:
+	http://www.zlib.net/zlib123.zip
+
+
+4. Sockets 1.9.8
+
+	Page:
+	http://www.alhem.net/Sockets/
+
+	Sources:
+	http://www.alhem.net/Sockets/Sockets-1.9.8.zip
+
+
+5. dotconfpp 0.0.4a
+
+	Page:
+	http://sourceforge.net/projects/dotconfpp/
+	http://voodoo.com.ua/
+	http://freshmeat.net/projects/dotconfpp
+	http://www.software-development.in.ua/dotconfpp.html
+	http://voodoo.com.ua/dotconfpp.html
+
+	Sources:
+	http://voodoo.com.ua/dotconfpp/dotconfpp-0.0.4a.tar.gz
+
+
+6. ZThread 2.3.2
+
+	Page:
+	http://zthread.sourceforge.net
+	http://freshmeat.net/projects/zthread
+
+	Sources:
+	http://prdownloads.sourceforge.net/zthread/ZThread-2.3.2.tar.gz
+
+
+7. Python 2.4.2
+
+	Page:
+	http://www.python.org/2.4.2/
+
+	Sources:
+	http://www.python.org/ftp/python/2.4.2/Python-2.4.2.tgz
+
+
+8. PyCXX 5.3.5
+
+	Page:
+	http://cxx.sourceforge.net/
+	http://sourceforge.net/projects/cxx/
+
+	Sources:
+	http://prdownloads.sourceforge.net/cxx/pycxx_5_3_5.tar.gz?download
+	http://optusnet.dl.sourceforge.net/sourceforge/cxx/pycxx_5_3_5.tar.gz
+
+
+9. SQLite 3.2.7
+	
+	Page:
+	http://www.sqlite.org/
+	http://www.sqlite.org/download.html
+
+	Util:
+	http://www.sqlite.org/sqlite-3_2_7.zip
+
+	Sources:
+	http://www.sqlite.org/sqlite-source-3_2_7.zip
+	http://www.sqlite.org/sqlite-3.2.7.tar.gz

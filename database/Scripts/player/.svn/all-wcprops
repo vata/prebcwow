@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/prebcwow/!svn/ver/2/database/Scripts/player
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/prebcwow/!svn/ver/2/database/Scripts/player/__init__.py
+END
+dr.py
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/prebcwow/!svn/ver/2/database/Scripts/player/dr.py
+END
+mysql.py
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/prebcwow/!svn/ver/2/database/Scripts/player/mysql.py
+END
+xp.py
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/prebcwow/!svn/ver/2/database/Scripts/player/xp.py
+END

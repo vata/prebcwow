@@ -1,0 +1,455 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/prebcwow/!svn/ver/9/Precompiled%20Libs/include/Python
+END
+ucnhash.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/prebcwow/!svn/ver/9/Precompiled%20Libs/include/Python/ucnhash.h
+END
+iterobject.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/prebcwow/!svn/ver/9/Precompiled%20Libs/include/Python/iterobject.h
+END
+enumobject.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/prebcwow/!svn/ver/9/Precompiled%20Libs/include/Python/enumobject.h
+END
+classobject.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/prebcwow/!svn/ver/9/Precompiled%20Libs/include/Python/classobject.h
+END
+datetime.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/prebcwow/!svn/ver/9/Precompiled%20Libs/include/Python/datetime.h
+END
+stringobject.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/prebcwow/!svn/ver/9/Precompiled%20Libs/include/Python/stringobject.h
+END
+pyport.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/prebcwow/!svn/ver/9/Precompiled%20Libs/include/Python/pyport.h
+END
+complexobject.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/prebcwow/!svn/ver/9/Precompiled%20Libs/include/Python/complexobject.h
+END
+codecs.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/prebcwow/!svn/ver/9/Precompiled%20Libs/include/Python/codecs.h
+END
+longintrepr.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/prebcwow/!svn/ver/9/Precompiled%20Libs/include/Python/longintrepr.h
+END
+opcode.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/prebcwow/!svn/ver/9/Precompiled%20Libs/include/Python/opcode.h
+END
+dictobject.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/prebcwow/!svn/ver/9/Precompiled%20Libs/include/Python/dictobject.h
+END
+py_curses.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/prebcwow/!svn/ver/9/Precompiled%20Libs/include/Python/py_curses.h
+END
+unicodeobject.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/prebcwow/!svn/ver/9/Precompiled%20Libs/include/Python/unicodeobject.h
+END
+intobject.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/prebcwow/!svn/ver/9/Precompiled%20Libs/include/Python/intobject.h
+END
+errcode.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/prebcwow/!svn/ver/9/Precompiled%20Libs/include/Python/errcode.h
+END
+rangeobject.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/prebcwow/!svn/ver/9/Precompiled%20Libs/include/Python/rangeobject.h
+END
+pgenheaders.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/prebcwow/!svn/ver/9/Precompiled%20Libs/include/Python/pgenheaders.h
+END
+ceval.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/prebcwow/!svn/ver/9/Precompiled%20Libs/include/Python/ceval.h
+END
+objimpl.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/prebcwow/!svn/ver/9/Precompiled%20Libs/include/Python/objimpl.h
+END
+timefuncs.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/prebcwow/!svn/ver/9/Precompiled%20Libs/include/Python/timefuncs.h
+END
+listobject.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/prebcwow/!svn/ver/9/Precompiled%20Libs/include/Python/listobject.h
+END
+cobject.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/prebcwow/!svn/ver/9/Precompiled%20Libs/include/Python/cobject.h
+END
+graminit.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/prebcwow/!svn/ver/9/Precompiled%20Libs/include/Python/graminit.h
+END
+pygetopt.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/prebcwow/!svn/ver/9/Precompiled%20Libs/include/Python/pygetopt.h
+END
+moduleobject.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/prebcwow/!svn/ver/9/Precompiled%20Libs/include/Python/moduleobject.h
+END
+traceback.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/prebcwow/!svn/ver/9/Precompiled%20Libs/include/Python/traceback.h
+END
+token.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/prebcwow/!svn/ver/9/Precompiled%20Libs/include/Python/token.h
+END
+Python.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/prebcwow/!svn/ver/9/Precompiled%20Libs/include/Python/Python.h
+END
+funcobject.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/prebcwow/!svn/ver/9/Precompiled%20Libs/include/Python/funcobject.h
+END
+osdefs.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/prebcwow/!svn/ver/9/Precompiled%20Libs/include/Python/osdefs.h
+END
+grammar.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/prebcwow/!svn/ver/9/Precompiled%20Libs/include/Python/grammar.h
+END
+patchlevel.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/prebcwow/!svn/ver/9/Precompiled%20Libs/include/Python/patchlevel.h
+END
+pymem.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/prebcwow/!svn/ver/9/Precompiled%20Libs/include/Python/pymem.h
+END
+parsetok.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/prebcwow/!svn/ver/9/Precompiled%20Libs/include/Python/parsetok.h
+END
+pystate.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/prebcwow/!svn/ver/9/Precompiled%20Libs/include/Python/pystate.h
+END
+bitset.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/prebcwow/!svn/ver/9/Precompiled%20Libs/include/Python/bitset.h
+END
+floatobject.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/prebcwow/!svn/ver/9/Precompiled%20Libs/include/Python/floatobject.h
+END
+structseq.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/prebcwow/!svn/ver/9/Precompiled%20Libs/include/Python/structseq.h
+END
+cStringIO.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/prebcwow/!svn/ver/9/Precompiled%20Libs/include/Python/cStringIO.h
+END
+abstract.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/prebcwow/!svn/ver/9/Precompiled%20Libs/include/Python/abstract.h
+END
+object.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/prebcwow/!svn/ver/9/Precompiled%20Libs/include/Python/object.h
+END
+cellobject.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/prebcwow/!svn/ver/9/Precompiled%20Libs/include/Python/cellobject.h
+END
+pythonrun.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/prebcwow/!svn/ver/9/Precompiled%20Libs/include/Python/pythonrun.h
+END
+methodobject.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/prebcwow/!svn/ver/9/Precompiled%20Libs/include/Python/methodobject.h
+END
+import.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/prebcwow/!svn/ver/9/Precompiled%20Libs/include/Python/import.h
+END
+weakrefobject.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/prebcwow/!svn/ver/9/Precompiled%20Libs/include/Python/weakrefobject.h
+END
+structmember.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/prebcwow/!svn/ver/9/Precompiled%20Libs/include/Python/structmember.h
+END
+tupleobject.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/prebcwow/!svn/ver/9/Precompiled%20Libs/include/Python/tupleobject.h
+END
+pythread.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/prebcwow/!svn/ver/9/Precompiled%20Libs/include/Python/pythread.h
+END
+symtable.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/prebcwow/!svn/ver/9/Precompiled%20Libs/include/Python/symtable.h
+END
+boolobject.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/prebcwow/!svn/ver/9/Precompiled%20Libs/include/Python/boolobject.h
+END
+pyfpe.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/prebcwow/!svn/ver/9/Precompiled%20Libs/include/Python/pyfpe.h
+END
+marshal.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/prebcwow/!svn/ver/9/Precompiled%20Libs/include/Python/marshal.h
+END
+descrobject.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/prebcwow/!svn/ver/9/Precompiled%20Libs/include/Python/descrobject.h
+END
+compile.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/prebcwow/!svn/ver/9/Precompiled%20Libs/include/Python/compile.h
+END
+pystrtod.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/prebcwow/!svn/ver/9/Precompiled%20Libs/include/Python/pystrtod.h
+END
+pgen.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/prebcwow/!svn/ver/9/Precompiled%20Libs/include/Python/pgen.h
+END
+metagrammar.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/prebcwow/!svn/ver/9/Precompiled%20Libs/include/Python/metagrammar.h
+END
+pydebug.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/prebcwow/!svn/ver/9/Precompiled%20Libs/include/Python/pydebug.h
+END
+genobject.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/prebcwow/!svn/ver/9/Precompiled%20Libs/include/Python/genobject.h
+END
+bufferobject.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/prebcwow/!svn/ver/9/Precompiled%20Libs/include/Python/bufferobject.h
+END
+fileobject.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/prebcwow/!svn/ver/9/Precompiled%20Libs/include/Python/fileobject.h
+END
+intrcheck.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/prebcwow/!svn/ver/9/Precompiled%20Libs/include/Python/intrcheck.h
+END
+modsupport.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/prebcwow/!svn/ver/9/Precompiled%20Libs/include/Python/modsupport.h
+END
+pyconfig.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/prebcwow/!svn/ver/9/Precompiled%20Libs/include/Python/pyconfig.h
+END
+pymactoolbox.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/prebcwow/!svn/ver/9/Precompiled%20Libs/include/Python/pymactoolbox.h
+END
+frameobject.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/prebcwow/!svn/ver/9/Precompiled%20Libs/include/Python/frameobject.h
+END
+setobject.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/prebcwow/!svn/ver/9/Precompiled%20Libs/include/Python/setobject.h
+END
+sysmodule.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/prebcwow/!svn/ver/9/Precompiled%20Libs/include/Python/sysmodule.h
+END
+pyerrors.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/prebcwow/!svn/ver/9/Precompiled%20Libs/include/Python/pyerrors.h
+END
+node.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/prebcwow/!svn/ver/9/Precompiled%20Libs/include/Python/node.h
+END
+sliceobject.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/prebcwow/!svn/ver/9/Precompiled%20Libs/include/Python/sliceobject.h
+END
+longobject.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/prebcwow/!svn/ver/9/Precompiled%20Libs/include/Python/longobject.h
+END
+eval.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/prebcwow/!svn/ver/9/Precompiled%20Libs/include/Python/eval.h
+END

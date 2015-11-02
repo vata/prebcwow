@@ -1,0 +1,14 @@
+Here place for suggestions for functions and events for better scripting.
+
+Pls use template:
+
+01.01.05
+(date)
+
+Functions:
+player.getRestState() - Retrieve player rest state
+killer.getHPHitOn(victim) - Retrieve total attack done by the player on the mob or vice versa
+(Functions list with discriptions)
+
+Events:
+(Events list with discriptions)

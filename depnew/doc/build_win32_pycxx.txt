@@ -1,0 +1,34 @@
+pycxx_5_3_5.tar.gz
+
+1. Create solution - lib, add pycxx_5_3_5/Src/ as cpp files to project
+
+2. Edit files in /CXX/
+
+	Exception.hxx:
+		#include "Python.h"
+		to
+		#include <Python/Python.h>
+
+	IndirectPythonInterface.hxx:
+		#include <Python.h>
+		to
+		#include <Python/Python.h>
+
+	Objects.hxx:
+		#include "Python.h"
+		to
+		#include <Python/Python.h>
+
+3. Edit files in /CXX/Src/
+
+	cxxextensions.c:
+		#include "Python.h"
+		to
+		#include <Python/Python.h>
+
+
+3. add include dir CXX/.. and Python/..
+4. set optimization, set lib/dll, build
+
+out:
+CXX is your include/CXX/ dir

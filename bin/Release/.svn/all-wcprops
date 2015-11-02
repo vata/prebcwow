@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/prebcwow/!svn/ver/9/bin/Release
+END
+libmysql.dll
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/prebcwow/!svn/ver/9/bin/Release/libmysql.dll
+END
+CRFusion.exe
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/prebcwow/!svn/ver/9/bin/Release/CRFusion.exe
+END
+CRFusion.conf
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/prebcwow/!svn/ver/9/bin/Release/CRFusion.conf
+END

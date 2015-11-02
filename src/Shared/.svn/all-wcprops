@@ -1,0 +1,167 @@
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/prebcwow/!svn/ver/9/src/Shared
+END
+StdAfx.h
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/prebcwow/!svn/ver/9/src/Shared/StdAfx.h
+END
+MersenneTwister.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/prebcwow/!svn/ver/2/src/Shared/MersenneTwister.cpp
+END
+Namespace.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/prebcwow/!svn/ver/9/src/Shared/Namespace.h
+END
+WayPoints.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/prebcwow/!svn/ver/2/src/Shared/WayPoints.h
+END
+ByteBuffer.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/prebcwow/!svn/ver/2/src/Shared/ByteBuffer.h
+END
+FactionTemplates.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/prebcwow/!svn/ver/2/src/Shared/FactionTemplates.cpp
+END
+MersenneTwister.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/prebcwow/!svn/ver/2/src/Shared/MersenneTwister.h
+END
+Singleton.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/prebcwow/!svn/ver/2/src/Shared/Singleton.h
+END
+FactionTemplates.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/prebcwow/!svn/ver/2/src/Shared/FactionTemplates.h
+END
+Portable.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/prebcwow/!svn/ver/2/src/Shared/Portable.cpp
+END
+OurDefs.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/prebcwow/!svn/ver/2/src/Shared/OurDefs.h
+END
+Util.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/prebcwow/!svn/ver/2/src/Shared/Util.cpp
+END
+Portable.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/prebcwow/!svn/ver/2/src/Shared/Portable.h
+END
+PacketBuilder.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/prebcwow/!svn/ver/2/src/Shared/PacketBuilder.cpp
+END
+Errors.h
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/prebcwow/!svn/ver/2/src/Shared/Errors.h
+END
+Log.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/prebcwow/!svn/ver/2/src/Shared/Log.cpp
+END
+Util.h
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/prebcwow/!svn/ver/2/src/Shared/Util.h
+END
+PacketBuilder.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/prebcwow/!svn/ver/2/src/Shared/PacketBuilder.h
+END
+WorldPacket.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/prebcwow/!svn/ver/2/src/Shared/WorldPacket.h
+END
+Timer.h
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/prebcwow/!svn/ver/2/src/Shared/Timer.h
+END
+SConstruct
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/prebcwow/!svn/ver/2/src/Shared/SConstruct
+END
+Log.h
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/prebcwow/!svn/ver/2/src/Shared/Log.h
+END
+MemoryLeaks.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/prebcwow/!svn/ver/2/src/Shared/MemoryLeaks.cpp
+END
+StdAfx.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/prebcwow/!svn/ver/9/src/Shared/StdAfx.cpp
+END
+Common.h.bak
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/prebcwow/!svn/ver/2/src/Shared/Common.h.bak
+END
+Common.h
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/prebcwow/!svn/ver/9/src/Shared/Common.h
+END
+MemoryLeaks.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/prebcwow/!svn/ver/2/src/Shared/MemoryLeaks.h
+END

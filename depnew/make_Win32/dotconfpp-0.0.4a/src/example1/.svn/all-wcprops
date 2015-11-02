@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/prebcwow/!svn/ver/2/depnew/make_Win32/dotconfpp-0.0.4a/src/example1
+END
+example1.cc
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/prebcwow/!svn/ver/2/depnew/make_Win32/dotconfpp-0.0.4a/src/example1/example1.cc
+END
+example1.conf
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/prebcwow/!svn/ver/2/depnew/make_Win32/dotconfpp-0.0.4a/src/example1/example1.conf
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/prebcwow/!svn/ver/2/depnew/make_Win32/dotconfpp-0.0.4a/src/example1/Makefile.in
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/prebcwow/!svn/ver/2/depnew/make_Win32/dotconfpp-0.0.4a/src/example1/Makefile.am
+END

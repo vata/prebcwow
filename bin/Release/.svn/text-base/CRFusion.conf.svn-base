@@ -1,0 +1,64 @@
+###############################################################################
+# CRFusion Game Server Configuration file 
+###############################################################################
+
+## SQL connection information - REQUIRED
+# DatabaseInfo = "host;login;password;databasename" - password CANNOT be empty
+DatabaseInfo = "127.0.0.1;root;w00t;crfusion"
+
+##################################
+## World/Realm Servers Settings ##
+##################################
+# IP or DNS of the server (both logon and world).
+# You need to set this to your external IP.
+# Default: 127.0.0.1 (localhost)
+Host = 127.0.0.1
+LogonServerPort = 3724
+WorldServerPort = 8085
+
+## Realm Settings
+# 0 for config realmlist / 1 for sql realmlist
+SqlRealmList = 1
+
+# 0 - Normal / 1 - PvP / 6 - Rp Pvp / 8 - Rp Normal
+RealmRules = 0
+# Name of this Realm
+RealmName = "CRFusion Realm"
+
+#### <TXTCONFIG REALM>
+# Address of realm - for advanced usage only (default = Host)
+RealmAddr = 127.0.0.1
+# Port for realm - for advanced usage only (default = WorldServerPort)
+RealmPort = 3725
+# 0 - Orange / 1 - Red
+RealmColor = 0
+# 1=English, 2=Deutch, 3=French, 4=Other - for TimeZone
+RealmZone = 1
+# <any number> - /!\this doesn't limit char number/!\ >> it's used for population calc :)
+RealmMaxChar = 500
+#### </TXTCONFIG REALM>
+
+# Message of the Day. Displayed at worldlogin for every user.
+Motd = "|cffffffffWelcome to [CRFusion] dev server.|r"
+
+## World Settings
+# Update Timers settings
+# Set time interval (in ms) for updates of these fields.
+# If you leave this commented, default values will be used
+# UpdateTimer_Objects = 400
+UpdateTimer_Sessions = 120
+# UpdateTimer_Auctions = 3500
+# UpdateTimer_Warden = 720000
+
+# Maximum number of players in the world. Excluding GM's
+# Default: 100
+PlayerLimit = 100
+
+# Logging for chat messages to console (say/yell/group/guild/chan)
+# 0 = Off; 1 = On
+LogChat = 1
+
+# Logging detail level
+# 0 = Minimum; 1 = Error; 2 = Detailed; 3 = Full/Debug
+# Default: 0
+LogLevel = 3

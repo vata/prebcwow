@@ -1,0 +1,4 @@
+To avoid ver mismatch in case if user already has different ver of MySQL, this lib will be the only dll in project.
+It is unmodified from MySQL 4.1.15 win32 release.
+No need to include full MySql project into lud, because user can use MySQL for different tasks.
+(but libmysql.lib uses (?) zlib. Maybe it will be needed to recompile libmysql.lib from mysql-4.1.15-win-src/libmysql/libmysql.dsp with our ver of zlib - we'll see)

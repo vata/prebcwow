@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/prebcwow/!svn/ver/2/depnew/make_Win32/openssl-0.9.8a/crypto/rc5/asm
+END
+rc5-586.pl
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/prebcwow/!svn/ver/2/depnew/make_Win32/openssl-0.9.8a/crypto/rc5/asm/rc5-586.pl
+END
+r5_win32.asm
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/prebcwow/!svn/ver/2/depnew/make_Win32/openssl-0.9.8a/crypto/rc5/asm/r5_win32.asm
+END

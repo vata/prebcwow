@@ -1,0 +1,44 @@
+dotconfpp-0.0.4a.tar.gz
+
+0. Rename *.cc to *.cpp and create win32 lib project
+
+1. Add to dotconfpp.h:
+
+	#ifdef _WIN32
+
+		#include <list>
+		#include <stdarg.h>
+		#include <io.h>
+		#include <ctype.h>
+
+		#define snprintf _snprintf
+		#define strcasecmp stricmp
+		#define R_OK 04
+		#define PATH_MAX _MAX_PATH
+		#define realpath(path,resolved_path) _fullpath(resolved_path, path, _MAX_PATH)
+
+	#else // not win32
+
+		...oldincludes
+
+	#endif //win32
+
+2. Add to mempool.h:
+
+	#ifdef _WIN32
+
+		#include <stdlib.h>
+		#include <string.h>
+		#define u_int8_t unsigned char
+		#undef free
+		#undef calloc
+
+	#else // not win32
+
+		...oldincludes
+
+	#endif //win32
+
+3. Select optimization.
+
+4. Select MT/MDd for release/debug

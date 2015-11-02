@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/prebcwow/!svn/ver/2/depnew/make_Win32/ZThread-2.3.2/src/macos
+END
+TSS.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/prebcwow/!svn/ver/2/depnew/make_Win32/ZThread-2.3.2/src/macos/TSS.h
+END
+ThreadOps.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/prebcwow/!svn/ver/2/depnew/make_Win32/ZThread-2.3.2/src/macos/ThreadOps.h
+END
+Monitor.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/prebcwow/!svn/ver/2/depnew/make_Win32/ZThread-2.3.2/src/macos/Monitor.cxx
+END
+ThreadOps.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/prebcwow/!svn/ver/2/depnew/make_Win32/ZThread-2.3.2/src/macos/ThreadOps.cxx
+END
+FastLock.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/prebcwow/!svn/ver/2/depnew/make_Win32/ZThread-2.3.2/src/macos/FastLock.h
+END
+UpTimeStrategy.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/prebcwow/!svn/ver/2/depnew/make_Win32/ZThread-2.3.2/src/macos/UpTimeStrategy.h
+END
+Monitor.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/prebcwow/!svn/ver/2/depnew/make_Win32/ZThread-2.3.2/src/macos/Monitor.h
+END

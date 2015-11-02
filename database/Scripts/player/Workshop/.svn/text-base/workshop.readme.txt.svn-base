@@ -1,0 +1,46 @@
+---------------------------
+Workshop XP-DR ReadMe v.1.0
+---------------------------
+
+@@@@@@@@@@@@@@@@@@
+What is it for ? @
+@@@@@@@@@@@@@@@@@@
+
+Workshop is made to offer ability to test XP and DR modules in non-server 
+environment. It gives fast and easy to read results for better modules tuning
+as well as it provides comprehensive testing to find out possible bugs or crashes
+of the modules.
+
+Workshop consists of testing modules:
+
+xp-workshop.py - for testing XP module
+dr-workshop.py - for testing DR module
+
+XP and DR modules have other than xp.py or dr.py filenames, they are xpw.py and 
+drw.py respectively.
+
+These modules bear different filenames to avoid possible COPY-PASTE operation over server's 
+XP or DR modules, that will lead to server crash, OF COURSE.
+
+Headers of XPW and DRW modules are adjusted to obtain data from xp-workshop or dr-workshop.
+Although body of XP or DR modules can be easily transferred from servrs's XP to XPW or DR to DRW,
+this is why this Workshop is used for.
+
+@@@@@@@@@@@@@@@
+How to work ? @
+@@@@@@@@@@@@@@@
+
+You have 2 MS-DOS batch files, to run XP or DR testing routines. RUN_XP.BAT or RUN_DR.BAT.
+
+To access some settings before running tests you shall open xp-workshop.py or dr-workshop.py
+and adjust some needed values in text editor.
+
+@@@@@@
+NOTE @
+@@@@@@
+
+Do not forget to have installed Python (www.python.org), I do not include Python executables here.
+
+---------------------------
+Kosuha
+

@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/prebcwow/!svn/ver/2/depnew/make_Win32/MySQL-4.1.15/debug
+END
+libmysql.lib
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/prebcwow/!svn/ver/2/depnew/make_Win32/MySQL-4.1.15/debug/libmysql.lib
+END
+libmysql.dll
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/prebcwow/!svn/ver/2/depnew/make_Win32/MySQL-4.1.15/debug/libmysql.dll
+END

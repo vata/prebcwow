@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/prebcwow/!svn/ver/2/src/CRFusion/ConsoleCommands
+END
+ConsoleCmds.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/prebcwow/!svn/ver/2/src/CRFusion/ConsoleCommands/ConsoleCmds.h
+END
+AConsole.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/prebcwow/!svn/ver/2/src/CRFusion/ConsoleCommands/AConsole.cpp
+END
+SConstruct
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/prebcwow/!svn/ver/2/src/CRFusion/ConsoleCommands/SConstruct
+END
+AConsole.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/prebcwow/!svn/ver/2/src/CRFusion/ConsoleCommands/AConsole.h
+END
+ConsoleCmds.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/prebcwow/!svn/ver/2/src/CRFusion/ConsoleCommands/ConsoleCmds.cpp
+END

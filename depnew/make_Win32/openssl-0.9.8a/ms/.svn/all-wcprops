@@ -1,0 +1,287 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/prebcwow/!svn/ver/2/depnew/make_Win32/openssl-0.9.8a/ms
+END
+applink.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/prebcwow/!svn/ver/2/depnew/make_Win32/openssl-0.9.8a/ms/applink.c
+END
+reqCA.ss
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/prebcwow/!svn/ver/2/depnew/make_Win32/openssl-0.9.8a/ms/reqCA.ss
+END
+tpemce.bat
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/prebcwow/!svn/ver/2/depnew/make_Win32/openssl-0.9.8a/ms/tpemce.bat
+END
+testencce.bat
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/prebcwow/!svn/ver/2/depnew/make_Win32/openssl-0.9.8a/ms/testencce.bat
+END
+uplink.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/prebcwow/!svn/ver/2/depnew/make_Win32/openssl-0.9.8a/ms/uplink.c
+END
+do_masm.bat
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/prebcwow/!svn/ver/2/depnew/make_Win32/openssl-0.9.8a/ms/do_masm.bat
+END
+testpem.bat
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/prebcwow/!svn/ver/2/depnew/make_Win32/openssl-0.9.8a/ms/testpem.bat
+END
+uplink.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/prebcwow/!svn/ver/2/depnew/make_Win32/openssl-0.9.8a/ms/uplink.h
+END
+mw.bat
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/prebcwow/!svn/ver/2/depnew/make_Win32/openssl-0.9.8a/ms/mw.bat
+END
+x86asm.bat
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/prebcwow/!svn/ver/2/depnew/make_Win32/openssl-0.9.8a/ms/x86asm.bat
+END
+testce.bat
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/prebcwow/!svn/ver/2/depnew/make_Win32/openssl-0.9.8a/ms/testce.bat
+END
+version32.rc
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/prebcwow/!svn/ver/2/depnew/make_Win32/openssl-0.9.8a/ms/version32.rc
+END
+do_win64a.bat
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/prebcwow/!svn/ver/2/depnew/make_Win32/openssl-0.9.8a/ms/do_win64a.bat
+END
+reqU.ss
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/prebcwow/!svn/ver/2/depnew/make_Win32/openssl-0.9.8a/ms/reqU.ss
+END
+bn_win32.asm
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/prebcwow/!svn/ver/2/depnew/make_Win32/openssl-0.9.8a/ms/bn_win32.asm
+END
+keyU.ss
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/prebcwow/!svn/ver/2/depnew/make_Win32/openssl-0.9.8a/ms/keyU.ss
+END
+testssce.bat
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/prebcwow/!svn/ver/2/depnew/make_Win32/openssl-0.9.8a/ms/testssce.bat
+END
+ssleay32.def
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/prebcwow/!svn/ver/2/depnew/make_Win32/openssl-0.9.8a/ms/ssleay32.def
+END
+do_ms.bat
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/prebcwow/!svn/ver/2/depnew/make_Win32/openssl-0.9.8a/ms/do_ms.bat
+END
+tencce.bat
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/prebcwow/!svn/ver/2/depnew/make_Win32/openssl-0.9.8a/ms/tencce.bat
+END
+do_win64i.bat
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/prebcwow/!svn/ver/2/depnew/make_Win32/openssl-0.9.8a/ms/do_win64i.bat
+END
+libeay32.def
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/prebcwow/!svn/ver/2/depnew/make_Win32/openssl-0.9.8a/ms/libeay32.def
+END
+tpem.bat
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/prebcwow/!svn/ver/2/depnew/make_Win32/openssl-0.9.8a/ms/tpem.bat
+END
+testenc.bat
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/prebcwow/!svn/ver/2/depnew/make_Win32/openssl-0.9.8a/ms/testenc.bat
+END
+uplink.pl
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/prebcwow/!svn/ver/2/depnew/make_Win32/openssl-0.9.8a/ms/uplink.pl
+END
+bcb4.bat
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/prebcwow/!svn/ver/2/depnew/make_Win32/openssl-0.9.8a/ms/bcb4.bat
+END
+keyCA.ss
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/prebcwow/!svn/ver/2/depnew/make_Win32/openssl-0.9.8a/ms/keyCA.ss
+END
+32all.bat
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/prebcwow/!svn/ver/2/depnew/make_Win32/openssl-0.9.8a/ms/32all.bat
+END
+tlhelp32.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/prebcwow/!svn/ver/2/depnew/make_Win32/openssl-0.9.8a/ms/tlhelp32.h
+END
+test.bat
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/prebcwow/!svn/ver/2/depnew/make_Win32/openssl-0.9.8a/ms/test.bat
+END
+ntdll.mak
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/prebcwow/!svn/ver/2/depnew/make_Win32/openssl-0.9.8a/ms/ntdll.mak
+END
+certCA.ss
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/prebcwow/!svn/ver/2/depnew/make_Win32/openssl-0.9.8a/ms/certCA.ss
+END
+do_nasm.bat
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/prebcwow/!svn/ver/2/depnew/make_Win32/openssl-0.9.8a/ms/do_nasm.bat
+END
+nt.mak
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/prebcwow/!svn/ver/2/depnew/make_Win32/openssl-0.9.8a/ms/nt.mak
+END
+cmp.pl
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/prebcwow/!svn/ver/2/depnew/make_Win32/openssl-0.9.8a/ms/cmp.pl
+END
+testss.bat
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/prebcwow/!svn/ver/2/depnew/make_Win32/openssl-0.9.8a/ms/testss.bat
+END
+mingw32.bat
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/prebcwow/!svn/ver/2/depnew/make_Win32/openssl-0.9.8a/ms/mingw32.bat
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/prebcwow/!svn/ver/2/depnew/make_Win32/openssl-0.9.8a/ms/README
+END
+tenc.bat
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/prebcwow/!svn/ver/2/depnew/make_Win32/openssl-0.9.8a/ms/tenc.bat
+END
+testpemce.bat
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/prebcwow/!svn/ver/2/depnew/make_Win32/openssl-0.9.8a/ms/testpemce.bat
+END
+certCA.srl
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/prebcwow/!svn/ver/2/depnew/make_Win32/openssl-0.9.8a/ms/certCA.srl
+END
+req2CA.ss
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/prebcwow/!svn/ver/2/depnew/make_Win32/openssl-0.9.8a/ms/req2CA.ss
+END
+.rnd
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/prebcwow/!svn/ver/2/depnew/make_Win32/openssl-0.9.8a/ms/.rnd
+END
+certU.ss
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/prebcwow/!svn/ver/2/depnew/make_Win32/openssl-0.9.8a/ms/certU.ss
+END
+do_nt.bat
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/prebcwow/!svn/ver/2/depnew/make_Win32/openssl-0.9.8a/ms/do_nt.bat
+END
+speed32.bat
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/prebcwow/!svn/ver/2/depnew/make_Win32/openssl-0.9.8a/ms/speed32.bat
+END
+testce2.bat
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/prebcwow/!svn/ver/2/depnew/make_Win32/openssl-0.9.8a/ms/testce2.bat
+END

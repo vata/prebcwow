@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/prebcwow/!svn/ver/8/src/LogonServer
+END
+LogonPackets.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/prebcwow/!svn/ver/8/src/LogonServer/LogonPackets.h
+END
+StdAfx.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/prebcwow/!svn/ver/2/src/LogonServer/StdAfx.h
+END
+LogonCodes.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/prebcwow/!svn/ver/2/src/LogonServer/LogonCodes.h
+END
+RealmList.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/prebcwow/!svn/ver/2/src/LogonServer/RealmList.h
+END
+LogonSocketMgr.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/prebcwow/!svn/ver/2/src/LogonServer/LogonSocketMgr.h
+END
+SConstruct
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/prebcwow/!svn/ver/2/src/LogonServer/SConstruct
+END
+LogonSocket.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/prebcwow/!svn/ver/8/src/LogonServer/LogonSocket.cpp
+END
+StdAfx.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/prebcwow/!svn/ver/2/src/LogonServer/StdAfx.cpp
+END
+LogonSocket.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/prebcwow/!svn/ver/2/src/LogonServer/LogonSocket.h
+END
+RealmList.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/prebcwow/!svn/ver/2/src/LogonServer/RealmList.cpp
+END
+LogonSocketMgr.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/prebcwow/!svn/ver/2/src/LogonServer/LogonSocketMgr.cpp
+END

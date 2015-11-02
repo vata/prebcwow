@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/prebcwow/!svn/ver/2/depnew/make_Win32/openssl-0.9.8a/doc/HOWTO
+END
+certificates.txt
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/prebcwow/!svn/ver/2/depnew/make_Win32/openssl-0.9.8a/doc/HOWTO/certificates.txt
+END
+proxy_certificates.txt
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/prebcwow/!svn/ver/2/depnew/make_Win32/openssl-0.9.8a/doc/HOWTO/proxy_certificates.txt
+END
+keys.txt
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/prebcwow/!svn/ver/2/depnew/make_Win32/openssl-0.9.8a/doc/HOWTO/keys.txt
+END

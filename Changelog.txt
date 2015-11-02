@@ -1,0 +1,361 @@
+Current Todos:
+New MultiRealms system (see Multirealm)
+New LootMgr
+New Grid System { + heightmap loading from MaNGoS }
+Fix Quests System
+Remake AI
+New Patching system / Auth mgr (no startup loading, instant testing/sending)
+New TaxiPath system (needs to be fully redone on storage, we also need to add position update when on a flying mount )
+
+
+
+NOW ITS DEAD!!!!
+2006
+
+April
+3rd
+And okay now, I AM BACK !
+OMFG HE’S BACK !!!!
+YEAH I’M BACK 
+W0000000T
+ok now, let the show begin, but from a new start 
+I am not restarting everything from the beginning as it would be very nonsense and stupid, but I am starting from earlier version 
+
+1st
+Happy april fools 
+Blizzard’s ones were BurgerCraft & Wisp as the new alliance race in BC 
+
+
+March
+4
+Hey :P i just came back from the pyrénées after some snowboarding etc.. ^^ and in two days i'll be back to classes etc... -_-
+.
+February
+20-25
+Account-Manager in progress (Connecting to mysql db & account creation works now . still some bugs in the acc-mgr)
+
+12-20
+Currently:
+Making central management with RealmMgr class
+Changing class World to work with RealmMgr
+Started class Instances
+Each instance will have it’s own class, loaded in the global Instances container/reactor class 
+Started class Battlegrounds
+Each battleground will have it’s own class, same model as instances 
+Added:
+Function to build the RealmList packet
+Added “isOnThisServer” column for Realms, tells CrFusion if this is current realm or not ^^
+New GraveYard system
+
+10-11
+Fixed that fucking crash + did some optimizations 
+Fully redone the duel system, i think it doesn’t work, but it’s better than older 
+Optimized Friends system
+Added:
+Hardcoded Quest triggers
+Hardcoded Resting triggers
+Optimized Triggers teleporting
+Too many things xD
+Currently on Grid system
+
+8-9
+Optimized many things around
+Added those in dynamic loading:
+Npc Texts
+Page Texts
+More to come 
+New bug: Crash at char ingame login xD
+
+6-7
+Optimized a lot of MapMgr functions
+Optimized *almost* every incrementations, passing from i++ to ++i format, looks silly, but it’s much faster (tests on 1’000’000’000 iterations: ++i 3sec; i++ 4sec)
+Tests have shown that in Localhost, loading spawned mob is ~50% faster and ingame latency moved from ~16-20ms to 1ms (on localhost!)
+Added ConsoleCmds Arguments system (means we can now have commands using arguments, from console )
+Added ConsoleCmds:
+broad[cast] <txt> – Broadcasts <txt> to all online players 
+
+1-5
+Finishing the new spell system
+Optimized new MapCell class
+Added .GetSecurity() to Python Scripting functions (works only on players )
+
+January
+
+30-31
+Finished: New Cell System
+Making a full source cleaning 
+Theorically working Fire GameObject damages 
+Some bugs at compilation, i need to fix’em before updating SVN
+
+28-29
+Added: Can’t swap item slots while in combat/stunned
+Currently:
+Remaking cell system
+Spell Targetting
+Aggro System
+SendMessageToSet (goes with cell stuff )
+Next Todo: Quest Looting/Quest Finishing to fix
+
+27
+Added last DB (structures+data) to SVN for easier testing, base accounts : base1 - testing, and base2 - testing
+Added some spelleffects, finishing new spell system 
+
+26
+Started: Remaking Spell system using cr ideas and some mangos parts, that’s gonna be fun
+Fixed: Random crash on CMSG_CREATURE_QUERY (thx MaNGoS)
+Optimized: Corpse system for player
+Optimized: misc stuff in World
+Optimized: Loading/Placing creatures is done at the same time 
+
+22-25
+Added: Sending warden request to all online players every 12 minutes, can be edited from configfile
+Optimized: some stuff in World.cpp + cleaned World.cpp
+Todo: from MaNGoS - 1.9.2 - Grid system/Z-Value loading
+Todo: fix minor bugs/crashes - fix combat - better AI
+
+18-19
+Added: When player dies, all Hp/Powers are set to 0
+Fixed: Bug at GameObjects load
+Adding: hardcoded graveyards loading (using table for this is useless)
+Current main todo’: Breadcrumbs system for mob AI, better basic AI + combat, fix tons of lil’ bugs...
+New error found, log \
+01:41:32|2|WORLD: CMSG_CREATURE_QUERY ‘Toad’ 
+
+01:41:32|2|WORLD: CMSG_CREATURE_QUERY 'Timber Wolf'
+01:41:32|2|WORLD: CMSG_CREATURE_QUERY 'Young Wolf'
+01:41:32|2|WORLD: CMSG_CREATURE_QUERY 'Northshire Peasant'
+01:41:32|2|WORLD: CMSG_CREATURE_QUERY 'Northshire Guard'
+01:41:32|2|WORLD: CMSG_CREATURE_QUERY 'Drusilla La Salle'
+The task has thrown an unhandled exception
+Thread joining...
+Thread exiting...
+insertPendingThread()
+1 pending-thread added.16
+
+
+Added: New loading system for Creatures
+Added: New loading system for GameObjects
+Tests: old full loadtime with 17’000 creats ? 2”30 to 3”, new loadtime with 17’000 creats ? 1”14 (all tests on the same computer etc...)
+
+15
+Added: Mail fixes from pandora
+Added: Mounts start from pandora
+Added: Quest loots from pandora
+Added: Water Walk when you die
+Added: Multiple Creature functions from pandora
+Added: Some Unit functions from pandora
+Optimized: Some loading stuff into ObjectMgr
+Todo: Add random chance for quest loots, on officials you don’t drop mob quest items at every kill ...
+
+14
+Added: Functionnal GuildChat <NEEDS TO BE TESTED ALONG WITH GUILDS>
+Added: [!] displayed on mobs fix from pandora
+
+13
+Added in .mod hp, possibility to put only new HP or new hp and new maxhp
+
+12
+Added: for GM invisibility system: do not announce joined/left channels 
+Added: in online players list, diplay all gms (opposite faction or not)
+Added: Neos’ skill levelling system 
+
+11
+Added: .kick / .kick <charname> command, if there’s no charname it tries to kick selected char.
+Added: Handling MSG_MOVE_TELEPORT_ACK with the same proc as MSG_MOVE_WORLDPORT_ACK ^^
+
+10
+Fully tested: SendPacketToSet, 100% functionnal and efficient (means: YEAHAAAAAAAAAAAAAAAAAAAAA WE CAN START WORKING HARDER TO MAKE IT PLAYABLE )
+Done: Full Optimization/Translation of level 0, 1 and 2 commands
+Fixed: Crash at char ingame logon 
+[Overall] 
+
+Todo: Adapt all fixeds/adds from Neos src (this will give us sorta Boost xD) and then plan together for further dev 
+Todo: fix emotes (CMSG_TEXT_EMOTE: Unknown GUID=<guid> for emote <ID>)
+Todo: add this one : unhandled opcode MSG_MOVE_TELEPORT_ACK
+Todo: handle this one : unhandled opcode CMSG_REQUEST_PARTY_MEMBER_STATS
+Todo: Add the command idea for easy made WayPoints (very needed)
+Todo: start Basic AI/Pathfinding
+Todo: Better combat handling (maybe using mangos)
+Todo: Finish Optimizations/Translations in commands (+world stuff) + delete Add Spirithealer command
+Todo: Move command levels for adding SAdmin Plevel 
+
+09
+Added: sWorld.GetRealmRules() to get RealmRules id (for all realm rules related stuff)
+Added: Loading Chat Channels patterns from ChatChannels.dbc, will be used for zone channel broadcast 
+Bug: Crash at char ingame logon -_-
+Continuing translation system.
+
+
+07-08
+Added: sWorld.SendPacketToZone(packet, zoneId) for sending a packet to specified zoneId (will be used for warnings etc...)
+Added: Logging Commands to SQL table
+Bug: Crash at charload (items part)
+Trying to Fix: Crash at charload
+Started: adding loading general channel names from DBC (for sending packets to a zone’s channel)
+Started: adding language in one header file to add server multilanguage 
+Started: Adding RealmRules system (Normal/PvP/PvE/Rp PvP/Rp PvE systems)
+
+02
+Added: Loading TaxiPath from DBC (instead of SQL)
+Added: Loading TaxiPathNode from DBC (instead of SQL)
+
+01
+? Happy New Year Everybody 
+Done: SpellEffects Handler
+Added SpellEffect: Instakill
+Added: Many destinations for Teleport_Units
+Optimized: SpellEffects stuff
+Optimized: ProgressBars
+
+2005
+December
+
+28-31
+Optimised: again some trading stuff
+Optimised: some duel stuff
+Added: Really (but really really) blizzlike duel flag spawning
+Added: found some flags, player_duel is actually PvP flag, i found pvp self flag, +3h played warning, +5h played warning
+Added: updates account lastip on client logon
+Added: .bwide command to do message broadcast on widescreen format for all players
+Added: SpellEffects - Teleport Units, using bindpoint or result from spells_tpunits table
+Added: Function TeleportToBindpoint for players
+Started: SpellEffect Handler and SpellEffects
+Bug: duel request is still not valid
+Bug: duel flag doesn’t despawn if duel is ended -_-
+Bug: trading is still slow i don’t see why xD
+Todo: Load TaxiNodes/TaxiPath from DBC‘s instead of SQL tables 
+
+27
+We’re switching under MySQL 5 for triggers and functions, this will be much faster for some new stuff coming later 
+
+26
+Added: Can’t Heal someone that is dueling
+Added: Can’t Start duel if invisible/stealthed
+Added: Accounts: Banning system
+
+25
+? Merry Christmas Everybody 
+Added: SpellEffects.cpp to start moving effects in there
+Added: Player Autosaving timer + setting for this in conf
+Added: Functions related to Duels into player.cpp + SetPlayerFaction function
+Added: Blizzlike spawning for the Duel Arbiter flag 
+Added: Can’t start duel if the two players are from opposite factions
+Fixed: Don’t self-send SMSG_DUEL_REQUESTED Opcode
+Added: If distance to the Duel Flag is > 45 the duel is ended and the other player wins
+Added: Handlers for Duel_Accepted and Duel_Cancelled
+Need to fix: Display box Accept/Refuse to the opponnent (doesn’t displays oO)
+Currently Adding: Almost Blizzlike Duels (we don’t have zones where you can’t duel for now)
+Removed: “M|” in front of Menu logs, because it’s similar to WoWEmu’s M for main and that is nonsense 
+
+
+23
+Added: Chat messages logging to console with config On/Off option 
+Fixed: .mod level - now you can really set 1..255 levels (was 1..99 before)
+Fixed: Item trading now works
+Optimised: a little the item trading (still slow -_-)
+
+22
+Added: Whisp form for night elves + recover original form when resurrecting
+Added: print_content() function for ByteBuffer and WorldPacket classes (from MaNGoS) 
+Added: Trade System, using MaNGoS one + edits to fit CrFusion
+Added: Guilds handler
+Started Fixing: Trading Items (money is working, but items aren’t)
+Fixed: Item Trade displays real item count (not MaxStack as before...)
+Fixed: crash at logout
+Fixed: .resurrect/.revive - No more needed to reconnect 
+Fixed: Chat message should also be self-received 
+Fixed: When SendMessageToSet will work, emotes with /me <text> will work 
+
+21
+Starting additions of OnPlayerEmote and OnPlayerTalk functions for Python scripting.
+
+20
+Removed: Annoying debug messages “<debug> Player moved Top/Bottom” etc... 
+Still fixing this death bug
+Starting to add Httpd, buggy compilation when not disabled (see in Shared/Common.h to disable) please someone do it xD
+
+19
+Fixed: TeleportFar function, no more needed to reconnect now 
+Currently: Trying to fix the corpse reclaim bug (”You need to be in the instance to get your corpse back to life”)
+
+16
+Added: Saving character to DB when resurrecting.
+Added: .stat command to display server stats (anyone can use it)
+Fixed: Crash when more than one ppl near a gameobject (using sum MangoS code)
+Fixed: Can connect from internet now, not only LAN/Local as before 
+
+15
+Added: Server stats display on Logon
+Added: Function isMap(uint32 id) in World namespace, so now we’re ready for complete map init (but we need to add rect. coords for all maps xD)
+Fixed/Added: Friends system, Sending friends on Logon
+
+12
+Fixed: 100% Blizzlike /random (/roll does the same) /roll [X] ([Y]) works PER-FEC-TLY 
+
+11
+Still fixing move opcodes ... that sux 10x xD
+Added: Warden packets logger for testing and then add a punkbuster system (too much cheaterz on privates)
+Tested: MultiRealm - Works great ! The only thing is that both realms need to have same Accounts table, but no biggie 
+
+10
+Optimised: CharList Building, only loads needed data instead of fullchar (including ALL useless inits), added function is LoadFromDBLight
+Started: Fixing move OpCodes usign MaNGoS part, but it sux 10x LMAO, when moving lotsa bug, and when you jump you are starting to fly xD
+Added: Charlist blizzlike, now displays ghost state when dead 
+Added: .kill command like on WoWEmu
+Added: Possibility to choose if realmlist is from SQL Table or from Config file (SqlRealmList=0/1 in conf ^^)
+
+9
+Fixed: Onmap corpse display if dead after relogging.
+Fixed: /played 100% blizzlike, /random works but maybe it needs some edit for better randomisation, otherwise it’s blizzlike 
+Fixed: Channel Chat working 100% 
+
+7
+Fixed: Char Logon Thread-crash
+Added: Guildchat commands working 
+Added: GM Command for freezing/unfreezing players 
+Added: If joining General Channel then doesn’t set Player as MODERATOR. If ADMIN, then Owner + Mod allowed, if GM, then Mod allowed.
+? Updated ToDo list 
+
+5
+? ToDo list for now, needs planning 
+Added: InGame timer when using Console Command “quit” or “exit” and added an StrCompile funct to Util.cpp 
+
+3
+Current Targets: getting /played fully working. Getting Water_Walk aura working, stop eat/drink when getting up and some stuff around 
+Added: Blizzlike Logoff (sitdown + can’t move)
+
+2
+Fixed: GameObject Templates loading !
+Util: ConfMaker for noobs is ready 
+Tomorrow: /played is planned to work and some work on opcodes (many don’t have actions to execute !)
+
+1
+Added: Multi WoW Builds support (1.8.0 - 1.8.3 for now)
+Added: Nice icon for the emu/confmaker 
+Next day: ConfMaker for easy config file output 
+
+November
+
+29-30
+Added: Full MySQL RealmList Support (address, name, icon, color, timezone, population, chars on server can be modded !)
+Added: Partial /random command (default 1..100 range, broadcasts result to all party members), I’ll improve it to /random X [Y] like on officials later 
+Started: Full /played command, for now it’s not fully working but i’m integrating levelTime and totalTime tick DB saving and then i’ll work on the command itself (displaying with good format etc...) 
+
+28
+Optimised: ProgressBar display at loading time, it was slowing the process... now it doesn’t 
+Added: GM command for stealth (.gmstealth on/off)
+Added: Scripts Reloading from Console Commands
+Changed: Finished my loading texts remake, looks much nicer now 
+
+27
+Fixed: Items loading bug
+Fixed: Creature/Spawns loading crash
+Fixed: Some MySQL tables (columns that didn’t exist)
+Changed: Again some logging 
+Changed: Server time is set to current time when starting server 
+
+26
+Fixed: Quests loading crash
+Fixed: Scripts loading bug
+Changed: WoW Build is now 4807 or 1.8.3 [Doesn’t works very well so kept 1.8.2 for now]
+Changed: Logging stuff, looks nicer now 

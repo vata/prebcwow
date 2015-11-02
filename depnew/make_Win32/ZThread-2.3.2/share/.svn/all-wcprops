@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/prebcwow/!svn/ver/2/depnew/make_Win32/ZThread-2.3.2/share
+END
+zthread.spec.in
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/prebcwow/!svn/ver/2/depnew/make_Win32/ZThread-2.3.2/share/zthread.spec.in
+END
+zthread.m4
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/prebcwow/!svn/ver/2/depnew/make_Win32/ZThread-2.3.2/share/zthread.m4
+END
+ftime.m4
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/prebcwow/!svn/ver/2/depnew/make_Win32/ZThread-2.3.2/share/ftime.m4
+END
+zthread-config
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/prebcwow/!svn/ver/2/depnew/make_Win32/ZThread-2.3.2/share/zthread-config
+END
+atomic-gcc.m4
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/prebcwow/!svn/ver/2/depnew/make_Win32/ZThread-2.3.2/share/atomic-gcc.m4
+END
+acinclude.m4
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/prebcwow/!svn/ver/2/depnew/make_Win32/ZThread-2.3.2/share/acinclude.m4
+END
+pthread.m4
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/prebcwow/!svn/ver/2/depnew/make_Win32/ZThread-2.3.2/share/pthread.m4
+END
+atomic-linux.m4
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/prebcwow/!svn/ver/2/depnew/make_Win32/ZThread-2.3.2/share/atomic-linux.m4
+END
+zthread-config.in
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/prebcwow/!svn/ver/2/depnew/make_Win32/ZThread-2.3.2/share/zthread-config.in
+END
+zthread.spec
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/prebcwow/!svn/ver/2/depnew/make_Win32/ZThread-2.3.2/share/zthread.spec
+END
+doxygen.m4
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/prebcwow/!svn/ver/2/depnew/make_Win32/ZThread-2.3.2/share/doxygen.m4
+END

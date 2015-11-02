@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/prebcwow/!svn/ver/2/depnew/make_Win32/Python-2.4.2/PC/os2emx
+END
+pythonpm.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/prebcwow/!svn/ver/2/depnew/make_Win32/Python-2.4.2/PC/os2emx/pythonpm.c
+END
+pyconfig.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/prebcwow/!svn/ver/2/depnew/make_Win32/Python-2.4.2/PC/os2emx/pyconfig.h
+END
+python24.def
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/prebcwow/!svn/ver/2/depnew/make_Win32/Python-2.4.2/PC/os2emx/python24.def
+END
+config.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/prebcwow/!svn/ver/2/depnew/make_Win32/Python-2.4.2/PC/os2emx/config.c
+END
+dlfcn.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/prebcwow/!svn/ver/2/depnew/make_Win32/Python-2.4.2/PC/os2emx/dlfcn.c
+END
+README.os2emx
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/prebcwow/!svn/ver/2/depnew/make_Win32/Python-2.4.2/PC/os2emx/README.os2emx
+END
+dlfcn.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/prebcwow/!svn/ver/2/depnew/make_Win32/Python-2.4.2/PC/os2emx/dlfcn.h
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/prebcwow/!svn/ver/2/depnew/make_Win32/Python-2.4.2/PC/os2emx/Makefile
+END
+getpathp.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/prebcwow/!svn/ver/2/depnew/make_Win32/Python-2.4.2/PC/os2emx/getpathp.c
+END
+dllentry.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/prebcwow/!svn/ver/2/depnew/make_Win32/Python-2.4.2/PC/os2emx/dllentry.c
+END

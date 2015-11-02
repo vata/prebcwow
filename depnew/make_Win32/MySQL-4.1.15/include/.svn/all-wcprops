@@ -1,0 +1,143 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/prebcwow/!svn/ver/2/depnew/make_Win32/MySQL-4.1.15/include
+END
+my_pthread.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/prebcwow/!svn/ver/2/depnew/make_Win32/MySQL-4.1.15/include/my_pthread.h
+END
+errmsg.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/prebcwow/!svn/ver/2/depnew/make_Win32/MySQL-4.1.15/include/errmsg.h
+END
+my_alloc.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/prebcwow/!svn/ver/2/depnew/make_Win32/MySQL-4.1.15/include/my_alloc.h
+END
+config-win.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/prebcwow/!svn/ver/2/depnew/make_Win32/MySQL-4.1.15/include/config-win.h
+END
+m_ctype.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/prebcwow/!svn/ver/2/depnew/make_Win32/MySQL-4.1.15/include/m_ctype.h
+END
+mysql_embed.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/prebcwow/!svn/ver/2/depnew/make_Win32/MySQL-4.1.15/include/mysql_embed.h
+END
+libmysql.def
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/prebcwow/!svn/ver/2/depnew/make_Win32/MySQL-4.1.15/include/libmysql.def
+END
+mysql_com.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/prebcwow/!svn/ver/2/depnew/make_Win32/MySQL-4.1.15/include/mysql_com.h
+END
+mysql.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/prebcwow/!svn/ver/2/depnew/make_Win32/MySQL-4.1.15/include/mysql.h
+END
+my_global.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/prebcwow/!svn/ver/2/depnew/make_Win32/MySQL-4.1.15/include/my_global.h
+END
+config-os2.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/prebcwow/!svn/ver/2/depnew/make_Win32/MySQL-4.1.15/include/config-os2.h
+END
+my_getopt.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/prebcwow/!svn/ver/2/depnew/make_Win32/MySQL-4.1.15/include/my_getopt.h
+END
+libmysqld.def
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/prebcwow/!svn/ver/2/depnew/make_Win32/MySQL-4.1.15/include/libmysqld.def
+END
+config-netware.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/prebcwow/!svn/ver/2/depnew/make_Win32/MySQL-4.1.15/include/config-netware.h
+END
+typelib.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/prebcwow/!svn/ver/2/depnew/make_Win32/MySQL-4.1.15/include/typelib.h
+END
+mysql_version.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/prebcwow/!svn/ver/2/depnew/make_Win32/MySQL-4.1.15/include/mysql_version.h
+END
+raid.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/prebcwow/!svn/ver/2/depnew/make_Win32/MySQL-4.1.15/include/raid.h
+END
+my_list.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/prebcwow/!svn/ver/2/depnew/make_Win32/MySQL-4.1.15/include/my_list.h
+END
+mysqld_error.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/prebcwow/!svn/ver/2/depnew/make_Win32/MySQL-4.1.15/include/mysqld_error.h
+END
+m_string.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/prebcwow/!svn/ver/2/depnew/make_Win32/MySQL-4.1.15/include/m_string.h
+END
+mysql_time.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/prebcwow/!svn/ver/2/depnew/make_Win32/MySQL-4.1.15/include/mysql_time.h
+END
+my_sys.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/prebcwow/!svn/ver/2/depnew/make_Win32/MySQL-4.1.15/include/my_sys.h
+END
+my_dbug.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/prebcwow/!svn/ver/2/depnew/make_Win32/MySQL-4.1.15/include/my_dbug.h
+END

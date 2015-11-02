@@ -1,0 +1,9 @@
+zlib123.zip
+
+1. projects/visualc6/zlib.dsw, convert
+2. set DLL ASM Release, set optimizations, set /MD - build debug ver (set base addr=0xE200000)
+2. set LIB ASM Release, set optimizations, set /MT - build release ver
+
+out:
+	1. see "header files" in zlib123/INDEX
+	2. lib123/projects/visualc6/Win32_DLL_ASM_Release,Win32_LIB_ASM_Release

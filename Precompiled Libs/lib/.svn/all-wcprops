@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/prebcwow/!svn/ver/10/Precompiled%20Libs/lib
+END
+libeay32.lib
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/prebcwow/!svn/ver/9/Precompiled%20Libs/lib/libeay32.lib
+END
+python24_d.lib
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/prebcwow/!svn/ver/9/Precompiled%20Libs/lib/python24_d.lib
+END
+PyCXX.lib
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/prebcwow/!svn/ver/10/Precompiled%20Libs/lib/PyCXX.lib
+END
+Sockets.lib
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/prebcwow/!svn/ver/9/Precompiled%20Libs/lib/Sockets.lib
+END
+dotconfpp.lib
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/prebcwow/!svn/ver/9/Precompiled%20Libs/lib/dotconfpp.lib
+END
+libmySQL.lib
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/prebcwow/!svn/ver/9/Precompiled%20Libs/lib/libmySQL.lib
+END
+zlib.lib
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/prebcwow/!svn/ver/9/Precompiled%20Libs/lib/zlib.lib
+END
+ZThread.lib
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/prebcwow/!svn/ver/9/Precompiled%20Libs/lib/ZThread.lib
+END
+libmysql.dll
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/prebcwow/!svn/ver/9/Precompiled%20Libs/lib/libmysql.dll
+END
+sqlite3.lib
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/prebcwow/!svn/ver/9/Precompiled%20Libs/lib/sqlite3.lib
+END
+ssleay32.lib
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/prebcwow/!svn/ver/9/Precompiled%20Libs/lib/ssleay32.lib
+END
+zlib1d.lib
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/prebcwow/!svn/ver/9/Precompiled%20Libs/lib/zlib1d.lib
+END
+python24.lib
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/prebcwow/!svn/ver/10/Precompiled%20Libs/lib/python24.lib
+END

@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/prebcwow/!svn/ver/2/database/Scripts/player/Workshop
+END
+run_xp.bat
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/prebcwow/!svn/ver/2/database/Scripts/player/Workshop/run_xp.bat
+END
+drw.py
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/prebcwow/!svn/ver/2/database/Scripts/player/Workshop/drw.py
+END
+output_dr.txt
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/prebcwow/!svn/ver/2/database/Scripts/player/Workshop/output_dr.txt
+END
+output_xp.txt
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/prebcwow/!svn/ver/2/database/Scripts/player/Workshop/output_xp.txt
+END
+xpw.py
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/prebcwow/!svn/ver/2/database/Scripts/player/Workshop/xpw.py
+END
+const_ai.py
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/prebcwow/!svn/ver/2/database/Scripts/player/Workshop/const_ai.py
+END
+dr-workshop.py
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/prebcwow/!svn/ver/2/database/Scripts/player/Workshop/dr-workshop.py
+END
+workshop.readme.txt
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/prebcwow/!svn/ver/2/database/Scripts/player/Workshop/workshop.readme.txt
+END
+output-dr.xls
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/prebcwow/!svn/ver/2/database/Scripts/player/Workshop/output-dr.xls
+END
+xp-workshop.py
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/prebcwow/!svn/ver/2/database/Scripts/player/Workshop/xp-workshop.py
+END
+output-xp.xls
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/prebcwow/!svn/ver/2/database/Scripts/player/Workshop/output-xp.xls
+END
+xls.py
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/prebcwow/!svn/ver/2/database/Scripts/player/Workshop/xls.py
+END
+run_dr.bat
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/prebcwow/!svn/ver/2/database/Scripts/player/Workshop/run_dr.bat
+END

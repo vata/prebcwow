@@ -1,0 +1,10 @@
+sqlite-source-3_2_7.zip
+
+1. create project, add *.c, *.h, *.def
+2. define NO_TCL, THREADSAFE
+3. set sqlite-source-3_2_7/sqlite3.def for dll
+3. set optimization, build LIB MT, DLL MDd (set base addr=0xEC00000)
+
+out:
+sqlite3.h
+lib/dll/pdb

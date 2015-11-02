@@ -1,0 +1,125 @@
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/prebcwow/!svn/ver/2/src/Shared/Database
+END
+DatabaseMysql.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/prebcwow/!svn/ver/2/src/Shared/Database/DatabaseMysql.h
+END
+QueryResultMysql.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/prebcwow/!svn/ver/2/src/Shared/Database/QueryResultMysql.h
+END
+Database.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/prebcwow/!svn/ver/2/src/Shared/Database/Database.cpp
+END
+QueryResult.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/prebcwow/!svn/ver/2/src/Shared/Database/QueryResult.h
+END
+Database.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/prebcwow/!svn/ver/2/src/Shared/Database/Database.h
+END
+DatabaseEnv.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/prebcwow/!svn/ver/2/src/Shared/Database/DatabaseEnv.h
+END
+Field.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/prebcwow/!svn/ver/2/src/Shared/Database/Field.cpp
+END
+DatabaseSqlite.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/prebcwow/!svn/ver/2/src/Shared/Database/DatabaseSqlite.cpp
+END
+QueryResultSqlite.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/prebcwow/!svn/ver/2/src/Shared/Database/QueryResultSqlite.cpp
+END
+SConstruct
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/prebcwow/!svn/ver/2/src/Shared/Database/SConstruct
+END
+Field.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/prebcwow/!svn/ver/2/src/Shared/Database/Field.h
+END
+DBCStores.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/prebcwow/!svn/ver/2/src/Shared/Database/DBCStores.cpp
+END
+DBC.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/prebcwow/!svn/ver/2/src/Shared/Database/DBC.cpp
+END
+QueryResultMysql.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/prebcwow/!svn/ver/2/src/Shared/Database/QueryResultMysql.cpp
+END
+DatabaseMysql.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/prebcwow/!svn/ver/2/src/Shared/Database/DatabaseMysql.cpp
+END
+DatabaseSqlite.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/prebcwow/!svn/ver/2/src/Shared/Database/DatabaseSqlite.h
+END
+DataStore.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/prebcwow/!svn/ver/2/src/Shared/Database/DataStore.h
+END
+QueryResultSqlite.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/prebcwow/!svn/ver/2/src/Shared/Database/QueryResultSqlite.h
+END
+DBCStores.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/prebcwow/!svn/ver/2/src/Shared/Database/DBCStores.h
+END
+DBC.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/prebcwow/!svn/ver/2/src/Shared/Database/DBC.h
+END

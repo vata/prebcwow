@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/prebcwow/!svn/ver/2/depnew/Unix_dep/CXX_build
+END
+cxxsupport.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/prebcwow/!svn/ver/2/depnew/Unix_dep/CXX_build/cxxsupport.cxx
+END
+cxx_extensions.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/prebcwow/!svn/ver/2/depnew/Unix_dep/CXX_build/cxx_extensions.cxx
+END
+cxxextensions.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/prebcwow/!svn/ver/2/depnew/Unix_dep/CXX_build/cxxextensions.c
+END
+IndirectPythonInterface.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/prebcwow/!svn/ver/2/depnew/Unix_dep/CXX_build/IndirectPythonInterface.cxx
+END
+SConstruct
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/prebcwow/!svn/ver/2/depnew/Unix_dep/CXX_build/SConstruct
+END

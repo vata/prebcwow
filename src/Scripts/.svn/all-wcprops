@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/prebcwow/!svn/ver/9/src/Scripts
+END
+stdafx.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/prebcwow/!svn/ver/2/src/Scripts/stdafx.h
+END
+Scripts.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/prebcwow/!svn/ver/6/src/Scripts/Scripts.vcproj
+END
+PySpellHandlers.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/prebcwow/!svn/ver/2/src/Scripts/PySpellHandlers.cpp
+END
+PyHandlers.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/prebcwow/!svn/ver/9/src/Scripts/PyHandlers.h
+END
+Scripts08.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/prebcwow/!svn/ver/6/src/Scripts/Scripts08.vcproj
+END
+PyCreature.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/prebcwow/!svn/ver/3/src/Scripts/PyCreature.cpp
+END
+PyAiHandlers.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/prebcwow/!svn/ver/2/src/Scripts/PyAiHandlers.cpp
+END
+ScriptsVS2002.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/prebcwow/!svn/ver/2/src/Scripts/ScriptsVS2002.vcproj
+END
+SConstruct
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/prebcwow/!svn/ver/2/src/Scripts/SConstruct
+END
+Scripts08.vcproj.Jacob-PC.Jacob.user
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/prebcwow/!svn/ver/9/src/Scripts/Scripts08.vcproj.Jacob-PC.Jacob.user
+END
+Scripts.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/prebcwow/!svn/ver/2/src/Scripts/Scripts.cpp
+END
+PyCreature.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/prebcwow/!svn/ver/2/src/Scripts/PyCreature.h
+END
+stdafx.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/prebcwow/!svn/ver/2/src/Scripts/stdafx.cpp
+END
+PyQuestHandlers.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/prebcwow/!svn/ver/2/src/Scripts/PyQuestHandlers.cpp
+END
+Scripts.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/prebcwow/!svn/ver/2/src/Scripts/Scripts.h
+END
