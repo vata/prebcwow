@@ -237,8 +237,8 @@ WorldSession::HandleCharDeleteOpcode( WorldPacket & recv_data )
 
     delete plr;
 
-	WorldPacket data(SMSG_CHAR_DELETE, 1);
-    data << (uint8)CHAR_DELETE_SUCCESS;
+	data.Initialize (SMSG_CHAR_DELETE);
+    data << uint8 (0x39);
     SendPacket(&data);
 }
 
