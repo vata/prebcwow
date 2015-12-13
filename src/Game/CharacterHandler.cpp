@@ -237,8 +237,9 @@ WorldSession::HandleCharDeleteOpcode( WorldPacket & recv_data )
 
     delete plr;
 
-    Make_CHAR_CREATION_ERROR_CODE(&data, CHAR_DELETE_OK);
-    SendPacket( &data );
+	WorldPacket data(SMSG_CHAR_DELETE, 1);
+    data << (uint8)CHAR_DELETE_SUCCESS;
+    SendPacket(&data);
 }
 
 void
